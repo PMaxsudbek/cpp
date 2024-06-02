@@ -26,4 +26,6 @@ Juda uzun butun son.
 ### Oraliq:
 -9223372036854775808 dan 9223372036854775807 gacha.
 ### Foydalanish:
+```cpp
 long long a;
+```

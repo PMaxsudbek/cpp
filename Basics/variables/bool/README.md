@@ -27,4 +27,6 @@ Mantiqiy qiymat.
 ### Oraliq:
 true yoki false(1 yoki 0).
 ### Foydalanish:
+```cpp
 bool a;
+```

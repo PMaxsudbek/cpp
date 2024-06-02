@@ -4,7 +4,7 @@ Ushbu C++ dasturi butun sonli o'zgaruvchidan foydalanishni ko'rsatadi.
 
 ## Kod tavsifi
 
-Bu dasturda `son` butun o`zgaruvchisi e`lon qilinadi va `5` qiymati bilan ishga tushiriladi.
+Bu dasturda `son` butun o\`zgaruvchisi e\`lon qilinadi va `5` qiymati bilan ishga tushiriladi.
 Shundan so'ng, u "o'g'il" ning boshlang'ich qiymatini konsolga chop etadi.
 Shundan so'ng, "o'g'il" qiymati "10" ga yangilanadi va yangilangan qiymatni konsolda chop etadi.
 

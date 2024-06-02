@@ -26,4 +26,6 @@ Oddiy butun son.
 ### Oraliq:
 -2147483648 dan 2147483647 gacha.
 ### Foydalanish:
+```cpp
 int a;
+```

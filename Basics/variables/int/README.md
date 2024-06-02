@@ -1,7 +1,7 @@
 # C++ da butun sonli oʻzgaruvchiga misol
 
 Ushbu C++ dasturi butun sonli o'zgaruvchidan foydalanishni ko'rsatadi.
-
+https://raw.githubusercontent.com/PMaxsudbek/cpp/main/Basics/variables/int/int.cpp
 ## Kod tavsifi
 
 Bu dasturda `son` butun o\`zgaruvchisi e\`lon qilinadi va `5` qiymati bilan ishga tushiriladi.

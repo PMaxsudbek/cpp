@@ -26,4 +26,6 @@ Belgisiz oddiy butun son.
 ### Oraliq:
 0 dan 4294967295 gacha.
 ### Foydalanish:
+```cpp
 unsigned int a;
+```

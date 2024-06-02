@@ -1,4 +1,4 @@
-# C++ da int16_t oʻzgaruvchisiga misol
+# C++ da int32_t oʻzgaruvchisiga misol
 ```cpp
 #include <iostream>
 #include <cstdint>

@@ -21,7 +21,7 @@ C++ dasturlash tilida `unordered_map` turi kalitlar va qiymatlar jadvalidini ifo
 Bu turdagi o'zgaruvchilar kalitlar bo'yicha tartiblangan ro'yxatlarni boshqarish uchun ishlatiladi. 
 `unordered_map` kalitlar ustida boshqarish uchun qulay va tez foydalaniladi.
 ## Kod tavsifi
-Bu dasturda `jadval` nomli `map<string, int>` o'zgaruvchisi e'lon qilinadi va boshlang'ich qiymat sifatida 
+Bu dasturda `jadval` nomli `unordered_map<string, int>` o'zgaruvchisi e'lon qilinadi va boshlang'ich qiymat sifatida 
 {{`"Pardayev"`,`1`},{`"Maxsudbek"`,`2`},{`"G'ulomjon o'g'li"`,`3`}} massividan foydalaniladi va chop etiladi.
 ```console
 So'z va tartibi:

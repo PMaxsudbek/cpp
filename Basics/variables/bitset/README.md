@@ -29,4 +29,4 @@ Har bir bit 0 yoki 1.
 ```cpp
 std::bitset<N> a;
 ```
-(N bitli bitlar to'plami uchun)
+N bitli bitlar to'plami uchun

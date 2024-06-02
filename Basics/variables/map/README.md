@@ -26,6 +26,12 @@ G'ulomjon o'g'li <-> 3- o'rin
 Maxsudbek <-> 2- o'rin
 Pardayev <-> 1- o'rin
 ```
+O'zgaruvchiga qiymatlarni Mana bunday qilib taminlasa bo'ladi:
+```cpp
+    jadval["Pardayev"] = 1;
+    jadval["Maxsudbek"] = 2;
+    jadval["G'ulomjon o'g'li"] = 3;
+```
 ## Ko'rsatmalar
 ### Ma'nosi:
 Kalit-qiymat juftlari (standart kutubxona konteyneri).

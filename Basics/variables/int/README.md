@@ -21,3 +21,7 @@ C++da int o'zgaruvchisini e'lon qiling
 ## Foydalanish
 
 Siz ushbu dasturdan C++ da butun son oʻzgaruvchilari qanday ishlashini va ularni oʻz dasturlaringizda qanday eʼlon qilish, ishga tushirish va yangilashni tushunish uchun foydalanishingiz mumkin.
+```console
+Son = 5
+Son = 10
+```

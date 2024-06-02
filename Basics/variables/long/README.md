@@ -27,4 +27,6 @@ Uzun butun son.
 32-bit tizimda: -2147483648 dan 2147483647 gacha.
 64-bit tizimda: -9223372036854775808 dan 9223372036854775807 gacha.
 ### Foydalanish:
+```cpp
 long a;
+```

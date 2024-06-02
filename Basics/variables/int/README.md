@@ -1,4 +1,4 @@
-# C++ da butun sonli oʻzgaruvchiga misol
+# C++ da butun son oʻzgaruvchisiga misol
 ```cpp
 #include <iostream>
 using namespace std;
@@ -10,7 +10,7 @@ int main() {
     return 0;
 }
 ```
-Ushbu C++ dasturi butun sonli o'zgaruvchidan foydalanishni ko'rsatadi.
+Ushbu C++ dasturi butun son o'zgaruvchisidan foydalanishni ko'rsatilgan.
 ## Kod tavsifi
 Bu dasturda `son` butun o\`zgaruvchisi e\`lon qilinadi va `5` qiymati bilan ishga tushiriladi.
 Shundan so'ng, `son` qiymati `10` ga yangilanadi va yangilangan qiymatni konsolda chop etadi.

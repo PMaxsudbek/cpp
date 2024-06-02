@@ -13,7 +13,7 @@ int main() {
 
 ```
 Ushbu C++ dasturi `int16_t` o'zgaruvchisidan foydalanishni ko'rsatilgan.
-## <cstdint> bu kutubxona haqida qisqacha
+## \<cstdint\> bu kutubxona haqida qisqacha
 ### Ushbu kutubxona C++ standartlarida aniqlangan, standart int tipi amallarini bir-biriga mos ravishda aniqlash uchun ishlatiladi.
 `<cstdint>` kutubxonasi, ma'lum bir bayt hajmga ega turli sonlarni aniqlash uchun 
 `int8_t`, `int16_t`, `int32_t`, `int64_t` kabi `integer` tipilarni,

@@ -24,8 +24,8 @@ Uzun butun son.
 ### Hajmi:
 4 yoki 8 bayt (tizimga bog'liq).
 ### Oraliq:
-32-bit tizimda: -2147483648 dan 2147483647 gacha.
-64-bit tizimda: -9223372036854775808 dan 9223372036854775807 gacha.
+32-bit tizimda: -2,147,483,648 dan 2,147,483,647 gacha.
+64-bit tizimda: -9,223,372,036,854,775,808 dan 9,223,372,036,854,775,807 gacha.
 ### Foydalanish:
 ```cpp
 long a;

@@ -24,7 +24,7 @@ Oddiy butun son.
 ### Hajmi:
 4 bayt.
 ### Oraliq:
--2147483648 dan 2147483647 gacha.
+-2,147,483,648 dan 2,147,483,647 gacha.
 ### Foydalanish:
 ```cpp
 int a;

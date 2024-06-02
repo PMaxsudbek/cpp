@@ -24,7 +24,7 @@ Belgisiz juda uzun butun son.
 ### Hajmi:
 8 bayt.
 ### Oraliq:
-0 dan 18446744073709551615 gacha.
+0 dan 18,446,744,073,709,551,615 gacha.
 ### Foydalanish:
 ```cpp
 unsigned long long a;

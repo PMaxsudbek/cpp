@@ -13,8 +13,8 @@ int main() {
 ```
 Ushbu C++ dasturi `bool` o'zgaruvchisidan foydalanishni ko'rsatilgan.
 ## Kod tavsifi
-Bu dasturda `son` `bool` o\`zgaruvchisi e\`lon qilinadi va `5` qiymati bilan ishga tushiriladi.
-Shundan so'ng, `son` qiymati `10` ga yangilanadi va yangilangan qiymatni konsolda chop etadi.
+Bu dasturda `son` `bool` o\`zgaruvchisi e\`lon qilinadi va `false` qiymati bilan ishga tushiriladi.
+Shundan so'ng, `son` qiymati `true` ga yangilanadi va yangilangan qiymatni konsolda chop etadi.
 ```console
 Son = 0
 Son = 1

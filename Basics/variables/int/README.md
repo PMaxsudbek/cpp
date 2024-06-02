@@ -20,8 +20,17 @@ Son = 5
 Son = 10
 ```
 ## Ko'rsatmalar
-C++da int o'zgaruvchisini e'lon qiling
+
+### Ma'nosi:
+Oddiy butun son.
+
+### Hajmi:
+4 bayt.
+
+### Oraliq:
+-2147483648 dan 2147483647 gacha.
+
+### Foydalanish:
+int a;
 ## Foydalanish
-
 Siz ushbu dasturdan C++ da butun son oʻzgaruvchilari qanday ishlashini va ularni oʻz dasturlaringizda qanday eʼlon qilish, ishga tushirish va yangilashni tushunish uchun foydalanishingiz mumkin.
-

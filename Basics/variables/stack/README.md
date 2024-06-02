@@ -28,7 +28,7 @@ U aslida boshqa konteyner (masalan, `deque`, `vector`, yoki `list`) obyektlarini
 ## Kod tavsifi
 Bu dasturda `raqamlar` nomli `stack<int>` o'zgaruvchisi e'lon qilinadi va boshlang'ich qiymat sifatida `1`, `2`, `3`, `4` va `5` foydalaniladi va chop etiladi.
 ```console
-Raqamlar: 1 2 3 4 5 
+Raqamlar: 5 4 3 2 1
 ```
 ## Ko'rsatmalar
 ### Ma'nosi:

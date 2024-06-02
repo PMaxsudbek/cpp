@@ -24,7 +24,7 @@ Belgisiz qisqa musbat butun son.
 ### Hajmi:
 2 bayt.
 ### Oraliq:
-0 dan 65535 gacha.
+0 dan 65,535 gacha.
 ### Foydalanish:
 ```cpp
 unsigned short a;

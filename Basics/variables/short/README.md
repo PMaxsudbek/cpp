@@ -26,4 +26,6 @@ Qisqa butun son.
 ### Oraliq:
 -32768 dan 32767 gacha.
 ### Foydalanish:
+```cpp
 short a;
+```

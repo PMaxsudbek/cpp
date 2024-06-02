@@ -1,4 +1,4 @@
-# C++ da haqiqiy sonli oʻzgaruvchiga misol
+# C++ da haqiqiy son oʻzgaruvchiga misol
 ```cpp
 #include <iostream>
 using namespace std;

@@ -12,7 +12,7 @@ int main() {
 ```
 Ushbu C++ dasturi `unsigned` o'zgaruvchisidan foydalanishni ko'rsatilgan.
 ## Kod tavsifi
-Bu dasturda `son` unsigned o\`zgaruvchisi e\`lon qilinadi va `5` qiymati bilan ishga tushiriladi.
+Bu dasturda `son` `unsigned` o\`zgaruvchisi e\`lon qilinadi va `5` qiymati bilan ishga tushiriladi.
 Shundan so'ng, `son` qiymati `10` ga yangilanadi va yangilangan qiymatni konsolda chop etadi.
 ```console
 Son = 5

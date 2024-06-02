@@ -22,4 +22,6 @@ Belgilar soniga qarab o'zgaradi.
 ### Oraliq:
 Odatda cheklovsiz, lekin amaliyotda xotira hajmi bilan cheklangan.
 ### Foydalanish:
+```cpp
 string a;
+```

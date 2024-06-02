@@ -26,4 +26,6 @@ Qayta aniqlanuvchi nuqta.
 ### Oraliq:
 1.2E-38 dan 3.4E+38 gacha, aniqlik taxminan 6-7 raqam.
 ### Foydalanish:
+```cpp
 float a;
+```

@@ -1,7 +1,7 @@
 # C++ da deque oʻzgaruvchisiga misol
 ```cpp
 #include <iostream>
-#include <list>
+#include <deque>
 using namespace std;
 int main() {
     deque<int> raqamlar = {1, 2, 3, 4, 5};// std::deque yaratish va boshlang'ich qiymatlarni kiritish
@@ -15,7 +15,7 @@ int main() {
 ```
 Ushbu C++ dasturi `deque` o'zgaruvchisidan foydalanishni ko'rsatilgan.
 ## deque Tipi
-`deque` (`double-ended queue` - `ikki tomonlama navbat`) C++ standart bibliotekasida mavjud bo'lgan bir turdir. Bu tur, elementlarga ikki tomondan (`front` va `back`) kirish va chiqish imkonini beradi.
+`deque` (`double-ended queue` - `ikki tomonlama navbat`) C++ standart kutubxonasida mavjud bo'lgan bir turdir. Bu tur, elementlarga ikki tomondan (`front` va `back`) kirish va chiqish imkonini beradi.
 `deque` `list` va `vector` turidan farq qiladi, chunki u barcha elementlarga boshidan va oxiridan tez kirish va chiqish imkonini beradi.
 ## Kod tavsifi
 Bu dasturda `raqamlar` nomli `deque<int>` o'zgaruvchisi e'lon qilinadi va boshlang'ich qiymat sifatida {`1`, `2`, `3`, `4`, `5`} massividan foydalaniladi va chop etiladi.

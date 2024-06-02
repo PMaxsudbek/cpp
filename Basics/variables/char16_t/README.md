@@ -29,7 +29,7 @@ UTF-16 Unicode belgilar turi(16-bitli keng belgilar).
 ### Hajmi:
 2 bayt.
 ### Oraliq:
-0 dan 65535 gacha.
+0 dan 65,535 gacha.
 ### Foydalanish:
 ```cpp
 char16_t a;

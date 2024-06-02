@@ -26,4 +26,6 @@ Belgisiz juda uzun butun son.
 ### Oraliq:
 0 dan 18446744073709551615 gacha.
 ### Foydalanish:
+```cpp
 unsigned long long a;
+```

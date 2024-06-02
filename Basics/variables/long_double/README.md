@@ -26,4 +26,6 @@ Uzun aniqlanuvchi nuqta.
 ### Oraliq:
 Aniqlik va oraliq tizimga bog'liq, odatda juda katta.
 ### Foydalanish:
+```cpp
 long double a;
+```

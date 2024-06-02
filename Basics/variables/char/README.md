@@ -29,4 +29,6 @@ Belgilar.
 signed char: -128 dan 127 gacha.
 unsigned char: 0 dan 255 gacha.
 ### Foydalanish:
+```cpp
 char a;
+```

@@ -26,4 +26,6 @@ Belgisiz qisqa musbat butun son.
 ### Oraliq:
 0 dan 65535 gacha.
 ### Foydalanish:
+```cpp
 unsigned short a;
+```

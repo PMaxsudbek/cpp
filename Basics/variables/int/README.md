@@ -1,4 +1,4 @@
-# C++ da butun son oʻzgaruvchisiga misol
+# C++ da int oʻzgaruvchisiga misol
 ```cpp
 #include <iostream>
 using namespace std;
@@ -10,9 +10,9 @@ int main() {
     return 0;
 }
 ```
-Ushbu C++ dasturi butun son o'zgaruvchisidan foydalanishni ko'rsatilgan.
+Ushbu C++ dasturi `int` o'zgaruvchisidan foydalanishni ko'rsatilgan.
 ## Kod tavsifi
-Bu dasturda `son` butun o\`zgaruvchisi e\`lon qilinadi va `5` qiymati bilan ishga tushiriladi.
+Bu dasturda `son` int o\`zgaruvchisi e\`lon qilinadi va `5` qiymati bilan ishga tushiriladi.
 Shundan so'ng, `son` qiymati `10` ga yangilanadi va yangilangan qiymatni konsolda chop etadi.
 ```console
 Son = 5

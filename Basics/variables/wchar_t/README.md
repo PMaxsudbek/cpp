@@ -10,7 +10,7 @@ int main() {
 }
 ```
 Ushbu C++ dasturi `wchar_t` o'zgaruvchisidan foydalanishni ko'rsatilgan.
-## char tipi
+## wchar_t tipi
 C++ dasturlash tili uchun kengroq simvollarni, xususan, Unicode simvollarini ifodalash uchun ishlatiladi. U `wchar_t` tipidagi o'zgaruvchilar ko'proq joy talab qiladigan va xalqaro simvol to'plamlarini (masalan, har xil tillarning belgilarini) ifodalash uchun ishlatiladi. Bu belgilar odatda `Unicode` kodlashuviga mos ravishda kodlanadi.
 ## Unicode
 `Unicode` - bu kompyuterlarda barcha tillar uchun umumiy simvol to'plamini belgilash uchun ishlatiladigan standart. `Unicode` har xil tillarning harflari, raqamlari, tinish belgilari va boshqa belgilar uchun standart raqamli qiymatlarni belgilaydi.

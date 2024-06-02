@@ -26,4 +26,6 @@ Ikkita aniqlanuvchi nuqta.
 ### Oraliq:
 2.3E-308 dan 1.7E+308 gacha, aniqlik taxminan 15 raqam.
 ### Foydalanish:
+```cpp
 double a;
+```

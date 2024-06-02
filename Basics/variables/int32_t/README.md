@@ -33,4 +33,6 @@ Son = 10
 ### Oraliq:
 -2147483648 dan 2147483647 gacha.
 ### Foydalanish:
+```cpp
 int32_t a;
+```

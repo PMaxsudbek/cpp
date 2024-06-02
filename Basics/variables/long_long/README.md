@@ -24,7 +24,7 @@ Juda uzun butun son.
 ### Hajmi:
 8 bayt.
 ### Oraliq:
--9223372036854775808 dan 9223372036854775807 gacha.
+-9,223,372,036,854,775,808 dan 9,223,372,036,854,775,807 gacha.
 ### Foydalanish:
 ```cpp
 long long a;

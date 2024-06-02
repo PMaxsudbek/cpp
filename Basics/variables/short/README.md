@@ -24,7 +24,7 @@ Qisqa butun son.
 ### Hajmi:
 2 bayt.
 ### Oraliq:
--32768 dan 32767 gacha.
+-32,768 dan 32,767 gacha.
 ### Foydalanish:
 ```cpp
 short a;

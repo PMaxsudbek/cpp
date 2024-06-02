@@ -12,7 +12,7 @@ int main() {
 ```
 Ushbu C++ dasturida `double` oʻzgaruvchisidan foydalanishni ko'rsatilgan.
 ## Kod tavsifi
-Bu dasturda `son` double o\`zgaruvchisi e\`lon qilinadi va `5.5` qiymati bilan ishga tushiriladi.
+Bu dasturda `son` `double` o\`zgaruvchisi e\`lon qilinadi va `5.5` qiymati bilan ishga tushiriladi.
 Shundan so'ng, `son` qiymati `10.5` ga yangilanadi va yangilangan qiymatni konsolda chop etadi.
 ```console
 Son = 5.5

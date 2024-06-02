@@ -10,6 +10,7 @@ int main() {
 ```
 Ushbu C++ dasturi `string` o'zgaruvchisidan foydalanishni ko'rsatilgan.
 ## Kod tavsifi
+Bu dasturda `matn` `string` o`zgaruvchisi e`lon qilinadi va `Hello world!` qiymati bilan ishga tushirilib chop etiladi.
 ```console
 Matn: Hello world!
 ```

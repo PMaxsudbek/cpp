@@ -27,4 +27,6 @@ Belgisiz uzun butun son.
 32-bit tizimda: 0 dan 4294967295 gacha.
 64-bit tizimda: 0 dan 18446744073709551615 gacha.
 ### Foydalanish:
+```cpp
 unsigned long a;
+```

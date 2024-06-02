@@ -16,7 +16,7 @@ int main() {
 ```
 Ushbu C++ dasturi `enum` o'zgaruvchisidan foydalanishni ko'rsatilgan.
 ## enum Tipi
-`Enum` (enumeration) C++ dasturlash tilida ma'lumot turi bo'lib, bitta qiymatlarni turli o'zgaruvchilarga bog'lash uchun ishlatiladi. 
+`Enum` (`enumeration` - `ro'yxatga olish`) C++ dasturlash tilida ma'lumot turi bo'lib, bitta qiymatlarni turli o'zgaruvchilarga bog'lash uchun ishlatiladi. 
 `Enum` turining asosiy maqsadi, kodni o'qimaslik va to'g'ri kiritishni ta'minlashdir.
 ## Kod tavsifi
 `Taomlar` turi uchun bir `enum` turi (Taomlar) yaratilgan , bu turga quyidagi qiymatlar (`Osh`, `Manti`, `Somsa`) tushuntirilgan.

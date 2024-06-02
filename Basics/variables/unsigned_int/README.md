@@ -24,7 +24,7 @@ Belgisiz oddiy butun son.
 ### Hajmi:
 4 bayt.
 ### Oraliq:
-0 dan 4294967295 gacha.
+0 dan 4,294,967,295 gacha.
 ### Foydalanish:
 ```cpp
 unsigned int a;

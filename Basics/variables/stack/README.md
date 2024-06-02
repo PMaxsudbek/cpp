@@ -22,7 +22,7 @@ int main() {
 ```
 Ushbu C++ dasturi `stack` o'zgaruvchisidan foydalanishni ko'rsatilgan.
 ## stack Tipi
-`stack` C++ standart kitobxonasida mavjud bo'lgan bir konteyner adapteri. 
+C++ standart kitobxonasida mavjud bo'lgan bir konteyner adapteri. 
 U aslida boshqa konteyner (masalan, `deque`, `vector`, yoki `list`) obyektlarini o'z ichiga oladi va ularga istalgan vaqtda yuqori darajadagi amallarni bajarish imkonini beradi.
 `stack` asosan keng ko'rinishdagi boshqaruvda eng kichik elementni yuqori darajadagi amallar bilan bajarish uchun foydalaniladi. Masalan, oxirgi kiritilgan elementni olish `top`, yangi element qo'shish `push`, oxirgi elementni olib tashlash `pop` va boshqalar kabi amallar.
 ## Kod tavsifi

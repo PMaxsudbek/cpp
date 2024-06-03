@@ -20,6 +20,8 @@ int main() {
 }
 ```
 Ushbu C++ dasturi `ostringstream` o'zgaruvchisidan foydalanishni ko'rsatilgan.
+## ostringstream tipi
+C++ standart kutubxonasida mavjud bo'lgan va matnlarni ketma-ket to'plab, bitta satrga yozish imkonini beruvchi oqim klassidir. U asosan matnlarni birlashtirish, formatlash va keyinchalik foydalanish uchun bitta satrga to'plash uchun ishlatiladi. Bu konteyner satrlarni oqimli yozish imkoniyatini beradi, bu esa ko'pincha log yozuvlari, xatolik xabarlarini yaratish va satrlarni dinamik yaratish jarayonlarida foydali bo'ladi.
 ## Kod tavsifi
 Bu dasturda `oss` `ostringstream` o`zgaruvchisi e`lon qilinadi va 
 ```cpp

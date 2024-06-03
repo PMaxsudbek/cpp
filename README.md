@@ -16,19 +16,3 @@ Bu repozitoriyada C++ dasturlash tiliga bag'ishlangan mavzular va misollar joyla
 - [**OOP**](https://github.com/PMaxsudbek/cpp/tree/main/OOP)
 
 Har bir mavzuga o'tish uchun kerakli havolalar yuqorida berilgan. Bu bo'limlar orqali siz kerakli mavzularni topishingiz va ularga kirishingiz mumkin.
-<span
-  // Make the element clickable
-  onClick={this.closeModal}
-  // Make the element navigable by keyboard
-  tabIndex={0}
-  // Call `this.closeModal` if the user presses either the
-  // enter or space key while the element is in focus
-  onKeyDown={...}
-  // Tell screen readers that the element is a button
-  role="button"
-  // All other props are passed through to the element
-  aria-label="Close modal"
-  className="icon-button"
->
-  <CloseIcon />
-</span>

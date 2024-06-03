@@ -10,4 +10,4 @@ Har bir mavzuga o'tish uchun kerakli havolalar yuqorida berilgan. Bu bo'limlar o
 <!----------------------------------------------------------------------------->
 [Link]: # 'Link with example title.'
 <!---------------------------------[ Buttons ]--------------------------------->
-[Button Icon]: [https://img.shields.io/badge/Hello-EF2D5E?style=for-the-badge&logoColor=white&logo=DocuSign](https://img.shields.io/badge/any_text-you_like-blue)
+[Button Icon]: [https://img.shields.io/badge/Hello-EF2D5E?style=for-the-badge&logoColor=white&logo=DocuSign]

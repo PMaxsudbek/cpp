@@ -28,7 +28,7 @@ time_point obyektlari, amaliyotlarda juda ham foydalaniladigan, amaldagi vaqtni 
 Yuqoridagi misolda, `time_point` obyektlari `system_clock` turi bilan yaratilgan. Bu, standart platforma vaqtini ifodalaydi. 
 Lekin, siz boshqa turdagi vaqtni ifodalay olasiz, masalan, `steady_clock` va `high_resolution_clock` turlaridan foydalanishingiz mumkin. Har bir tur o'zining xususiyatlari va maqsadlari bo'lgan vaqt vaqti bilan ishlash uchun mo'ljallangan.
 ## Kod tavsifi
-Bu dasturda `start` `time_point` o`zgaruvchisi e`lon qilinadi va usha vaqtni oladi `now()` funksiyasi yordamida 
+Bu dasturda `start` `time_point` o'zgaruvchisi e'lon qilinadi va usha vaqtni oladi `now()` funksiyasi yordamida 
 keyin `end` `time_point` o`zgaruvchisi e`lon qilinadi va usha vaqtni oladi `now()` funksiyasi yordamida. Va bu ikki o'zgaruvchi ayirmasi qandaydur ishga ketgan vaqt deb qarab ushani chop etamiz.
 ```console
 Amallar uchun sarflangan vaqt: 0 sekund

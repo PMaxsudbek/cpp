@@ -34,7 +34,7 @@ keyin `end` `time_point` o`zgaruvchisi e`lon qilinadi va usha vaqtni oladi `now(
 Amallar uchun sarflangan vaqt: 0 sekund
 ```
 ## Nega 0 sekund chiqdi?
-Mening kompyuterim for sikl amalini juda tez bajarib 0 sekund ko'rsatyabdi buni boshqacha yo'lda vaqtni ko'pyatirsak bo'ladi. 
+Mening kompyuterim `for` sikl amalini juda tez bajarib `0` sekund ko'rsatyabdi buni boshqacha yo'lda vaqtni ko'pyatirsak bo'ladi. 
 ### Misol:
 ```cpp
 #include <iostream>
@@ -67,6 +67,7 @@ ya'ni `uchta` iteratsiya bulgani uchun `3` soniyada `for` ishlaydi bu bilan kod 
 Amallar uchun sarflangan vaqt: 3.022 sekund
 ```
 chop etildi.
+### Bu shunchaki oqimni vaqtincha uxlatish :)
 ## Ko'rsatmalar
 ### Ma'nosi:
 Vaqt nuqtasi.

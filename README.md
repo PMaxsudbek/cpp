@@ -9,5 +9,5 @@ Har bir mavzuga o'tish uchun kerakli havolalar yuqorida berilgan. Bu bo'limlar o
 
 <!----------------------------------------------------------------------------->
 [Link]: # 'Link with example title.'
-<!---------------------------------[ Buttons ]--------------------------------->
-[Button Icon]: [https://img.shields.io/badge/Hello-EF2D5E?style=for-the-badge&logoColor=white&logo=DocuSign]
+<!---------------------------------[ Tugma ]--------------------------------->
+[Button Icon]: https://img.shields.io/badge/Installation-EF2D5E?style=for-the-badge&logoColor=white&logo=DocuSign

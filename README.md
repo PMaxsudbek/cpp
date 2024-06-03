@@ -5,7 +5,7 @@ Bu repozitoriyada C++ dasturlash tiliga bag'ishlangan mavzular va misollar joyla
 ## Mavzular
 [![Button Icon]][Link]
 <!----------------------------------------------------------------------------->
-[Link]: # 'Link with example title.'
+[Onclick]: # 'Link with example title.'
 <!---------------------------------[ Buttons ]--------------------------------->
 [Button Example]: https://img.shields.io/badge/Title-37a779?style=for-the-badge
 [Button Icon]: https://img.shields.io/badge/Installation-EF2D5E?style=for-the-badge&logoColor=white&logo=DocuSign
@@ -16,3 +16,10 @@ Bu repozitoriyada C++ dasturlash tiliga bag'ishlangan mavzular va misollar joyla
 - [**OOP**](https://github.com/PMaxsudbek/cpp/tree/main/OOP)
 
 Har bir mavzuga o'tish uchun kerakli havolalar yuqorida berilgan. Bu bo'limlar orqali siz kerakli mavzularni topishingiz va ularga kirishingiz mumkin.
+<ClickableBox
+  onClick={this.closeModal}
+  aria-label="Close modal"
+  className="icon-button"
+>
+  <CloseIcon />
+</ClickableBox>

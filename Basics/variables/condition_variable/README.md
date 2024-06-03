@@ -34,7 +34,7 @@ Ushbu C++ dasturi `condition_variable` o'zgaruvchisidan foydalanishni ko'rsatilg
 C++ standart kitobxonasida mavjud bo'lgan, mavjud mutexning muhita o'zgarishlarini kuzatuvchi bir vosita. 
 Buning maqsadi, bir qator dasturlar orasida kommunikatsiya o'rnatishni ta'minlashdir.
 Bir `condition_variable` ob'ektini foydalanishning asosiy uchun ikki qadam kerak:
-1) Mutexni bo'g'lang (lock) qilish.
+1) Mutexni bog'lang (lock) qilish.
 2) Biror muhim sharoit bajarilguncha (masalan, ma'lumotlar qabul qilindi yoki qatnashchilar ishlarini bajarishni yakunlagan) kutish.
 ## Kod tavsifi
 Bu dasturda `mutex` yordamida bloklanayabdi va `1` soniyadan keyin `signalWork()` funksiyasi ishlaydi va `ready = true;` bo'ladi keyin consolega "Ish bajarildi!" matni chiqadi.

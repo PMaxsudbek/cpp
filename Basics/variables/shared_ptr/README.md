@@ -32,7 +32,7 @@ Bu ko'pincha dinamik xotira ajratishni xavfsizroq va sodda qilish uchun ishlatil
 ```cpp 
 shared_ptr<Test> p1(new Test());
 ```
-— Test obyekti yaratilib, `p1` `shared pointer`ga beriladi.
+Test obyekti yaratilib, `p1` `shared pointer`ga beriladi.
 `{ shared_ptr<Test> p2 = p1; ... }` — `p1` bilan `p2` bir xil obyekti ishora qiladi. `use_count` `2` bo'ladi.
 ```console
 Test obyekti yaratildi

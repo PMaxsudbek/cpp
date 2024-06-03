@@ -16,6 +16,10 @@ int main() {
 }
 ```
 Ushbu C++ dasturi `future` o'zgaruvchisidan foydalanishni ko'rsatilgan.
+## future tipi
+C++ standart kitobxonasida mavjud bo'lgan, bir dasturni belgilangan vazifani bajarish uchun int qiymatini qaytaradigan "kelgusi" (`future`) ma'lumotni o'z ichiga oladi. Bu, dasturda parallel ravishda vazifalarni bajarish imkonini beradi. Kelgusi ma'lumotlar, dasturning boshqa qismlari uchun amalga oshirish uchun boshqa dasturlarni kutishga imkon beradi.
+
+`future<int>` obyekti, dasturda bir vazifani parallel ravishda amalga oshirishni boshlayadi va natijani o'z ichiga oladi. Boshqa dasturlar natijani istalgan vaqtda olish uchun bu kelgusi ma'lumotlarni foydalanishadi. Bundan tashqari, `future` obyekti, dasturni to'xtatmasdan oldingi vazifalar tugaganingizda natijani olishga imkon beradi.
 ## Kod tavsifi
 Bu dasturda `result` `future` o\`zgaruvchisi e\`lon qilinadi.
 ```console

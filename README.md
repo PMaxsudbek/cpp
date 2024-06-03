@@ -3,7 +3,7 @@
 Bu repozitoriyada C++ dasturlash tiliga bag'ishlangan mavzular va misollar joylashgan.
 
 ## Mavzular
-<a href="https://github.com/PMaxsudbek/cpp/tree/main/Advanced" class="btn">Advanced</a>
+<a href="https://github.com/PMaxsudbek/cpp/tree/main/Advanced" class="btn btn-black">Advanced</a>
 
 - [**Advanced**](https://github.com/PMaxsudbek/cpp/tree/main/Advanced)
 - [**Algorithms**](https://github.com/PMaxsudbek/cpp/tree/main/Algorithms)

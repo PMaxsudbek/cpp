@@ -73,6 +73,12 @@ Dastur natijasi:
 0 1 2 3 4
 0 1 2 3 4
 ```
+## mutex tipi
+`C++` standart kutubxonasi (STL) ichida joylashgan sinf, paralel dasturlar va hujjatlarga hamkorlik qilish uchun ishlatiladi. 
+Bu sinf, mavjud ma'lumotlarga hamkorlik qilish uchun tegishli bo'lgan hamkorlik-mechanizmini ta'minlaydi.
+`mutex` obyektlari bo'g'langan dastur tugatilgandan so'ng, uchun joylar bilan foydalanishga ruxsat beradi. 
+Bunday xolatda, boshqa dasturlar `mutex` obyektiga e'lon qilingan so'zlashuvchi joyda bo'g'lanishga urinib ko'radilar. 
+Bu, mavjud ma'lumotlarga to'g'ridan-to'g'ri kirishni ta'minlaydi.
 ### Qisqa xulosa mutex bizga oqimlar o'rtasidagi tartibni taminlab beradi.
 ## Ko'rsatmalar
 ### Ma'nosi:

@@ -25,7 +25,7 @@ C++ standart kutubxonasida mavjud bo'lib, u ma'lumotlarni tartiblangan va yagona
 ## Kod tavsifi
 Bu dasturda `raqamlar` nomli `set<int>` o'zgaruvchisi e'lon qilinadi va boshlang'ich qiymat sifatida `1`, `3`, `2`, `5` va `4` foydalaniladi va chop etiladi.
 ```console
-Raqamlar: 5 4 3 2 1
+5 4 3 2 1
 ```
 ## Ko'rsatmalar
 ### Ma'nosi:

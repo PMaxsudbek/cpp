@@ -4,7 +4,11 @@ Bu repozitoriyada C++ dasturlash tiliga bag'ishlangan mavzular va misollar joyla
 
 ## Mavzular
 [![Button Icon]][Link]
-
+<!----------------------------------------------------------------------------->
+[Link]: # 'Link with example title.'
+<!---------------------------------[ Buttons ]--------------------------------->
+[Button Example]: https://img.shields.io/badge/Title-37a779?style=for-the-badge
+[Button Icon]: https://img.shields.io/badge/Installation-EF2D5E?style=for-the-badge&logoColor=white&logo=DocuSign
 - [**Advanced**](https://github.com/PMaxsudbek/cpp/tree/main/Advanced)
 - [**Algorithms**](https://github.com/PMaxsudbek/cpp/tree/main/Algorithms)
 - [**Basics**](https://github.com/PMaxsudbek/cpp/tree/main/Basics)

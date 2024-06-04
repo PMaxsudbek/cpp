@@ -43,3 +43,48 @@ Har xil turlar uchun.
 ```cpp
 initializer_list<int> a;
 ```
+# Qo'shimcha :)
+## Kod
+```cpp
+#include <iostream>
+#include <initializer_list>
+#include <vector>
+
+class MyClass {
+public:
+    MyClass(std::initializer_list<int> list) {
+        for (auto elem : list) {
+            data.push_back(elem);
+        }
+    }
+
+    void print() const {
+        for (auto elem : data) {
+            std::cout << elem << " ";
+        }
+        std::cout << std::endl;
+    }
+
+private:
+    std::vector<int> data;
+};
+
+int main() {
+    MyClass obj = {1, 2, 3, 4, 5}; // std::initializer_list yordamida ob'ekt yaratish
+    obj.print();
+
+    return 0;
+}
+```
+Bu kodda:
+- `MyClass` sinfi `initializer_list<int>` yordamida yaratiladi.
+- Konstruktor `initializer_list` dan qiymatlarni qabul qilib, ularni `vector<int>` ichiga ko'chiradi.
+- `print` metodi `vector` ichidagi elementlarni ekranga chiqaradi.
+- `MyClass` obyekti {`1`, `2`, `3`, `4`, `5`} qiymatlari bilan yaratiladi va ekranga chiqariladi.
+### Nima uchun initializer_list kerak?
+- ##### Qulay va tushunarli sintaksis:
+   Bu struktura orqali bir nechta qiymatlarni bitta konteyner yoki funksiya chaqiruviga qulaylik bilan uzatish mumkin.
+- ##### Konteyner sinflari bilan qulay ishlash:
+   `vector`, `array`, `map`, va boshqa konteyner sinflar `initializer_list` ni qabul qilish uchun konstruktorlarga ega, bu esa ularni boshlang'ich qiymat bilan to'ldirishni osonlashtiradi.
+- ##### Funksiyalarga bir nechta argument uzatish:
+   Funksiyalarga bir nechta bir xil turdagi argumentlarni uzatish kerak bo'lganda `initializer_list` dan foydalanish qulaylik beradi.

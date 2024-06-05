@@ -1,5 +1,5 @@
 # Begin4
-## Aylananing diametri d berilgan. Uning uzunligi aniqlansin L = p* d p=3.14
+## Aylananing diametri d berilgan. Uning uzunligi aniqlansin L = π* d π=3.14
 ```cpp
 #include <iostream>
 using namespace std;

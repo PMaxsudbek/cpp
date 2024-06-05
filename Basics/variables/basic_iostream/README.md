@@ -29,6 +29,7 @@ Bu sinf `istream` va `ostream` sinflarini meros qilib oladi va ularning funksion
 ## Kod tavsifi
 Yuqoridagi misolda, std::fstream yordamida `basic_iostream<char>` funksional imkoniyatlarini ko'rishingiz mumkin. 
 Fayl ochilgach, dastlab unga yoziladi va keyin o'qish uchun qayta o'rnatiladi (seekg yordamida).
+
 `test.txt`
 ```console
 Hello, file!

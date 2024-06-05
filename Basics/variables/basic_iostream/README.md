@@ -34,6 +34,7 @@ Fayl ochilgach, dastlab unga yoziladi va keyin o'qish uchun qayta o'rnatiladi (s
 Hello, file!
 ```
 ->->->
+
 `test.txt`
 ```console
 Bu faylga o'qish va yozish mumkin :)

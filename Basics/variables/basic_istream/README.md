@@ -56,3 +56,14 @@ Pardayev Maxsudbek G'ulomjon o'g'li
 ```
 Yuqoridagi misollar orqali `basic_istream<char>` ning qanday ishlatilishi va ma'lumotlarni qanday kiritishi tushuniladi. 
 Aslida, `basic_istream<char>` asosiy kirish oqimi sinfidir va u `cin`, `ifstream`, va boshqa kirish oqimi sinflari yordamida keng foydalaniladi.
+## Ko'rsatmalar
+### Ma'nosi:
+Kirish oqimi (input stream) - umumiy kirish oqimi tipi.
+### Hajmi:
+Oqim boshqarish uchun zarur xotira.
+### Oraliq:
+Har xil turdagi oqimlar uchun.
+### Foydalanish:
+```cpp
+basic_istream<char> a;
+```

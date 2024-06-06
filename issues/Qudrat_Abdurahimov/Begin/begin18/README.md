@@ -1,5 +1,5 @@
 # Begin18
-## Sonlar o'qida `A`, `B`, `C` nuqtalar berilgan. `C` nuqta `A` va `B` nuqtalar orasida joylashgan `AC` va `BC` kesmalar uzunligining ko'paytmasini toping.
+## Sonlar o‘qida `A`, `B`, `C` nuqtalar berilgan. `C` nuqta `A` va `B` nuqtalar orasida joylashgan `AC` va `BC` kesmalar uzunligining ko‘paytmasini toping.
 ```cpp
 #include <iostream>
 #include <math.h>

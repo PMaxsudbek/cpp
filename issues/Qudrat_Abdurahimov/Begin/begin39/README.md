@@ -1,5 +1,5 @@
 # Begin39
-## A, B, C koeffisentlari berilgan. A·x^2+B·x+C=0 kvadrat tenglamaning diskriminanti noldan kata bo'lsa uning yechimlarini aniqlaydigan dastur tuzilsin. (A≠0).
+## `A`, `B`, `C` koeffisentlari berilgan. `A · x^2 + B · x + C = 0` kvadrat tenglamaning diskriminanti noldan kata bo'lsa uning yechimlarini aniqlaydigan dastur tuzilsin. (`A ≠ 0`).
 ```cpp
 #include <iostream>
 #include <math.h>

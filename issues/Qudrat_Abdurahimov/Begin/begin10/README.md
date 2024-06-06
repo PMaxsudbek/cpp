@@ -1,5 +1,5 @@
 # Begin10
-## Nolga teng bo'lmagan ikkita son berilgan. Ularning yig'indisi, ko'paytmasi va har birining kvadrati aniqlansin.
+## Nolga teng bo‘lmagan ikkita son berilgan. Ularning yig‘indisi, ko‘paytmasi va har birining kvadrati aniqlansin.
 ```cpp
 #include <iostream>
 #include <math.h>

@@ -1,5 +1,5 @@
 # Begin3
-## To‘g‘ri to‘rtburchakning tomoni a va b berilgan. Uning yuzasi S = a * b va P = 2 * (a+b) perimetri aniqlansin.
+## To‘g‘ri to‘rtburchakning tomoni `a` va `b` berilgan. Uning yuzasi `S = a · b` va `P = 2 · (a + b)` perimetri aniqlansin.
 ```cpp
 #include <iostream>
 using namespace std;

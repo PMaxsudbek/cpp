@@ -1,5 +1,5 @@
 # Begin5
-## Kubning yon tomoni a berilgan. Uning hajmini `V = a^3` va to‘la sirti `S = 6 * a^2` aniqlansin.
+## Kubning yon tomoni `a` berilgan. Uning hajmini `V = a^3` va to‘la sirti `S = 6 · a^2` aniqlansin.
 ```cpp
 #include <iostream>
 using namespace std;

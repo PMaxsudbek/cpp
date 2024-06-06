@@ -1,5 +1,5 @@
 # Begin13
-## Umumiy markazga bo'gan ikkita aylana radiusi berilgan. `R1` va `R2` (`R1 > R2`). Ularning yuzalari `S1` va `S2`, ularning ayirmasi `S3` aniqlansin. `S1 = π · (R1)^2`, `S2 = π · (R2)^2`, `S3 = S1 - S2`.
+## Umumiy markazga bo'gan ikkita aylana radiusi berilgan. `R1` va `R2` (`R1 > R2`). Ularning yuzalari `S1` va `S2`, ularning ayirmasi `S3` aniqlansin. `S1 = π · (R1)^2`, `S2 = π · (R2)^2`, `S3 = π · (R1 - R2)`.
 ```cpp
 #include <iostream>
 #include <math.h>

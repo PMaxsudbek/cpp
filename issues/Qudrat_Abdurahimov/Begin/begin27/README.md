@@ -1,5 +1,5 @@
 # Begin27
-## `A` son berilgan. `A` ning `A^2`, `A^4`, `A^8` darajalarini aniqlovchi dastur tuzilsin.
+## `A` son berilgan. `A` ning `A^2`, `A^4`, `A^8` darajalarini aniqlovchi programma tuzilsin.
 ```cpp
 #include <iostream>
 #include <math.h>

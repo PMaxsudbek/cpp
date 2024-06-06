@@ -1,5 +1,5 @@
 # Begin15
-## Aylananing yuzasi `S` berilgan. Uning diametri `D` va uzunligi `L` aniqlansin. `L = 2 · pi · R`, `S = pi · R^2`.
+## Aylananing yuzasi `S` berilgan. Uning diametri `d` va radiusi `R` aniqlansin. `L = 2 · π · R`, `S = π · R^2`.
 ```cpp
 #include <iostream>
 #include <math.h>
@@ -10,7 +10,6 @@ int main()
     cout << "S = ";cin >> S;
     R = sqrt(S / pi);
     D = 2 * R;
-    L = D * pi;
-    cout << "D = " << D << endl << "L = " << L;
+    cout << "D = " << D << endl << "R = " << R;
 }
 ```

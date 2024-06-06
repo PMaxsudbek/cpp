@@ -1,5 +1,5 @@
 # Begin19
-## To'g'ri to'rtburchakning qarama-qarshi uchlari koordinatlari berilgan. Uning tomonlari koordinata o'qiga parallel. To'g'ri to'rtburchakning perimetri va yuzasi aniqlansin.
+## To‘g‘ri to‘rtburchakning qarama-qarshi uchlari koordinatlari berilgan. Uning tomonlari koordinata o‘qiga parallel. To‘g‘ri to‘rtburchakning perimetri va yuzasi aniqlansin.
 ```cpp
 #include <iostream>
 #include <math.h>

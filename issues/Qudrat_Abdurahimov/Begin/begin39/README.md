@@ -1,5 +1,5 @@
 # Begin39
-## `A`, `B`, `C` koeffisentlari berilgan. `A · x^2 + B · x + C = 0` kvadrat tenglamaning diskriminanti noldan kata bo'lsa uning yechimlarini aniqlaydigan dastur tuzilsin. (`A ≠ 0`). `x_1,2 = (-B ± √D) / 2 / A`; `D = B^2 - 4 · A · C`;
+## `A`, `B`, `C` koeffisentlari berilgan. `A · x^2 + B · x + C = 0` kvadrat tenglamaning diskriminanti noldan kata bo'lsa uning yechimlarini aniqlaydigan programma tuzilsin. (`A ≠ 0`). `x_1,2 = (-B ± √D) / 2 / A`; `D = B^2 - 4 · A · C`;
 ```cpp
 #include <iostream>
 #include <math.h>

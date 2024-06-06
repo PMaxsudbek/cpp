@@ -1,5 +1,5 @@
 # Begin21
-## Uchburchakning uchta tomoni uchlari koordinatlari berilgan (x1, y1), (x2, y2), (x3, y3). Ikki nuqta orasidagi masofani toppish Begin20 da berilgan. Uchburchakning yuzasi va perimetrini toping. S=, p=(a+b+c)/2
+## Uchburchakning uchta tomoni uchlari koordinatlari berilgan (`x1`, `y1`), (`x2`, `y2`), (`x3`, `y3`). Ikki nuqta orasidagi masofani toppish `Begin20` da berilgan. Uchburchakning yuzasi va perimetrini toping. `S = √p(p - a)(p - b)(p - c)`, `p = (a + b + c) / 2`
 ```cpp
 #include <iostream>
 #include <math.h>

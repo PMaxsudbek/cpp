@@ -1,5 +1,5 @@
 # Begin32
-## Temperatura `T_F` gradus Selsiyda berilgan. Temperatura qiymatini `T_C` Farengeytga o'tkazuvchi programma tuzilsin. `T_C = (T_F – 32) · 5 / 9`.
+## Temperatura `T_F` gradus Selsiyda berilgan. Temperatura qiymatini `T_C` Farengeytga o‘tkazuvchi programma tuzilsin. `T_C = (T_F – 32) · 5 / 9`.
 ```cpp
 #include <iostream>
 #include <math.h>

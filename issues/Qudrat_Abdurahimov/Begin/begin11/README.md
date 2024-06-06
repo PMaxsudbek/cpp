@@ -1,5 +1,5 @@
 # Begin11
-## Nolga teng bo'lmagan ikkita son berilgan. Ularning yig'indisi, ko'paytmasi va har birining moduli aniqlansin.
+## Nolga teng bo'lmagan ikkita son berilgan. Ularning yig‘indisi, ko‘paytmasi va har birining moduli aniqlansin.
 ```cpp
 #include <iostream>
 #include <math.h>

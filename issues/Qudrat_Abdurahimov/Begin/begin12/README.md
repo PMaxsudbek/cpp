@@ -1,5 +1,5 @@
 # Begin12
-## To'g'ri uchburchakning katetlari `a` va `b` berilgan. Uning gipotenuzasi `с` va perimetri `P` aniqlansin. `c = √(a^2 + b^2)`, `P = a + b + c`
+## To‘g‘ri uchburchakning katetlari `a` va `b` berilgan. Uning gipotenuzasi `с` va perimetri `P` aniqlansin. `c = √(a^2 + b^2)`, `P = a + b + c`
 ```cpp
 #include <iostream>
 #include <math.h>

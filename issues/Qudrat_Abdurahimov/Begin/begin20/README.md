@@ -1,5 +1,5 @@
 # Begin20
-## Tekislikda berilgan ikki nuqta (`x1`, `y1`) va (`x2`, `y2`) orasidagi masofa topilsin. `s((x2-x1)^2+(y2-y1)^2)`
+## Tekislikda berilgan ikki nuqta (`x1`, `y1`) va (`x2`, `y2`) orasidagi masofa topilsin. `√((x2 - x1)^2 + (y2 - y1)^2)`
 ```cpp
 #include <iostream>
 #include <math.h>

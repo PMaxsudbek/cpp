@@ -1,5 +1,5 @@
 # Begin1
-## Kvadratning tomoni a berilgan. Uning perimetri aniqlansin. P = 4 * a
+## Kvadratning tomoni `a` berilgan. Uning perimetri aniqlansin. `P = 4 · a`
 ```cpp
 #include <iostream>
 using namespace std;

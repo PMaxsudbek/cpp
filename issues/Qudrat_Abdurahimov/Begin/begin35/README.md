@@ -1,5 +1,5 @@
 # Begin35
-## Qayiqning tezligi `V` km/s, daryo oqimining tezligi U km/s, (U<V). Qayiqning daryo oqimi bo'yicha harakatlanish vaqti T1, oqimga qarshi T2. Qayiqni yurgan S yo'lini aniqlovchi dastur tuzilsin.
+## Qayiqning tezligi `V` km/s, daryo oqimining tezligi `U` km/s, (`U < V`). Qayiqning daryo oqimi bo'yicha harakatlanish vaqti `T_1`, oqimga qarshi `T_2`. Qayiqni yurgan `S` yo'lini aniqlovchi programma tuzilsin.
 ```cpp
 #include <iostream>
 using namespace std;

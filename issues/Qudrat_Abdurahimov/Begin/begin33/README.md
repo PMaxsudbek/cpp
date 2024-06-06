@@ -1,5 +1,5 @@
 # Begin33
-## `X` kg konfet `A` so'm turadi. `1` kg va `Y` kg konfet qancha turishini aniqlovchi dastur tuzilsin.
+## `X` kg konfet `A` so'm turadi. `1` kg va `Y` kg konfet qancha turishini aniqlovchi programma tuzilsin.
 ```cpp
 #include <iostream>
 using namespace std;

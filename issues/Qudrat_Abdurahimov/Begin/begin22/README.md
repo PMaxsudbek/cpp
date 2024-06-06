@@ -1,5 +1,5 @@
 # Begin22
-## Berilgan `A` va `B` sonlarining qiymatlarini almashtiring. A va B ning yangi qiymati ekranga chiqarilsin
+## Berilgan `A` va `B` sonlarining qiymatlarini almashtiring. `A` va `B` ning yangi qiymati ekranga chiqarilsin.
 ```cpp
 #include <iostream>
 #include <math.h>

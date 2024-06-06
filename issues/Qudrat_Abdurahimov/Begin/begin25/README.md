@@ -1,5 +1,5 @@
 # Begin25
-## `x` ning qiymati berilganda `y = 3x^6 – 6x^2 – 7` funksiya qiymati aniqlan
+## `x` ning qiymati berilganda `y = 3x^6 – 6x^2 – 7` funksiya qiymati aniqlansin.
 ```cpp
 #include <iostream>
 #include <math.h>

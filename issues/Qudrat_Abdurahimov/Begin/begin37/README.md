@@ -1,5 +1,5 @@
 # Begin37
-## Birinchi avtomobilning tezligi V1 km/s, ikkinchisiniki V2 km/s, ular orasidagi masofa S. Ular biri-biri tomonga harakatlana boshlasa T vaqtdan keyin ular orasidagi masofani aniqlaydigan dastur tuzilsin.
+## Birinchi avtomobilning tezligi `V_1` km/s, ikkinchisiniki `V_2` km/s, ular orasidagi masofa `S`. Ular biri-biri tomonga harakatlana boshlasa `T` vaqtdan keyin ular orasidagi masofani aniqlaydigan dastur tuzilsin.
 ```cpp
 #include <iostream>
 #include <math.h>

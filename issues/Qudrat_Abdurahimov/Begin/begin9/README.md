@@ -1,5 +1,5 @@
 # Begin9
-## Ikkita manfiy bo'lmagan son `a` va `b` berilgan. Ularning o'rta geometrigi aniqlansin. `√(a * b)`
+## Ikkita manfiy bo'lmagan son `a` va `b` berilgan. Ularning o‘rta geometrigi aniqlansin. `√(a * b)`
 ```cpp
 #include <iostream>
 #include <math.h>

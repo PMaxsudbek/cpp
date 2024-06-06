@@ -1,5 +1,5 @@
 # Begin2
-## Kvadratning tomoni a berilgan. Uning yuzasi aniqlansin. S = a^2
+## Kvadratning tomoni `a` berilgan. Uning yuzasi aniqlansin. `S = a^2`
 ```cpp
 #include <iostream>
 using namespace std;

@@ -1,5 +1,5 @@
 # Begin14
-## Aylananing uzunligi `L` berilgan. Uning radiusi `R` va yuzasi `S` aniqlansin. `L = 2·pi·R`, `S = pi·R^2`.
+## Aylananing uzunligi `L` berilgan. Uning radiusi `R` va yuzasi `S` aniqlansin. `L = 2 · π · R`, `S = π · R^2`.
 ```cpp
 #include <iostream>
 #include <math.h>

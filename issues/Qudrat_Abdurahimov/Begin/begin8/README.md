@@ -1,5 +1,5 @@
 # Begin8
-## Ikkita son `a` va `b` berilgan. Ularning o'rta arifmetigi aniqlansin. `(a + b) / 2`.
+## Ikkita son `a` va `b` berilgan. Ularning o‘rta arifmetigi aniqlansin. `(a + b) / 2`.
 ```cpp
 #include <iostream>
 using namespace std;

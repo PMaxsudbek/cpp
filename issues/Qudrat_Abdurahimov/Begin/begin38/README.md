@@ -1,5 +1,5 @@
 # Begin38
-## `A` va `B` koeffisentlari berilgan `A · x + B = 0` chiziqli tenglamaning yechimini (`x` ni) aniqlaydigan dastur tuzilsin. (`A ≠ 0`)
+## `A` va `B` koeffisentlari berilgan `A · x + B = 0` chiziqli tenglamaning yechimini (`x` ni) aniqlaydigan programma tuzilsin. (`A ≠ 0`)
 ```cpp
 #include <iostream>
 using namespace std;

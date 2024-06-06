@@ -1,5 +1,5 @@
 # Begin17
-## Sonlar o’qida `A`, `B`, `C` nuqtalar berilgan. `AC` va `BC` kesmalarning uzunligini va kesmalar uzunligining yig’indisini topuvchi programma tuzilsin.
+## Sonlar o‘qida `A`, `B`, `C` nuqtalar berilgan. `AC` va `BC` kesmalarning uzunligini va kesmalar uzunligining yig‘indisini topuvchi programma tuzilsin.
 ```cpp
 #include <iostream>
 #include <math.h>

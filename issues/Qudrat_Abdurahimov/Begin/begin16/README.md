@@ -1,5 +1,5 @@
 # Begin16
-## Sonlar o'qida ikkita nuqta orasidagi masofa aniqlansin. `|x2 - x1|`.
+## Sonlar o‘qida ikkita nuqta orasidagi masofa aniqlansin. `|x2 - x1|`.
 ```cpp
 #include <iostream>
 #include <math.h>

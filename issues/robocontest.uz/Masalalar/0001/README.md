@@ -1,4 +1,4 @@
-# Masala #0001 `#oson`
+# Masala #0001 `#[oson]`(https://robocontest.uz/tasks?category=1)
 ## Muallif: [Sunatullo Hojiyev](https://robocontest.uz/profile/sunnat)
 ## A+B
 A va B butun sonlari yig'indisini hisoblash kerak bo'ladi.

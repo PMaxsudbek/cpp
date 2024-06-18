@@ -7,12 +7,9 @@ Kirish oqimida ikkita butun son kiritiladi, sonlar `10^9` dan kam
 ## Chiquvchi ma'lumotlar:
 Chiqish oqimida berilgan ikki sonni yig'indisini chiqarish kerak bo'ladi
 ## Misollar
-# input.txt	output.txt
-| Input  | Output |
-|--------|--------|
-| 1      |        |
-| 2 3    |        |
-| 5      |        |
+ | # | input.txt  | output.txt  |
+|---|------------|-------------|
+| 1 | ```console 2 3``` | ```console 5``` |
 ## Javob:
 ```cpp
 #include <iostream>

@@ -1,5 +1,7 @@
 <h1><a href="https://robocontest.uz/">robocontest.uz</a> saytidagi masalalarga yechimlari</h1>
-<img width="100" src="https://robocontest.uz/favicon.png" alt="Robocontest Logo">
+<a href="https://robocontest.uz/profile/pmaxsudbek" title="Robocontest Profile" target="_blank">
+    <img width="100" src="https://robocontest.uz/favicon.png" alt="Robocontest Logo">
+  </a>
 <h2>Eslatma!</h2>
 <p>
   Bu yerdagi javoblar to'g'ridan-to'g'ri ko'chirish uchun joylanmagan. Ulardan tushunib, o'rganib va testlab foydalaning!

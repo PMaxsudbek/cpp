@@ -3,15 +3,16 @@
 <h2>Qudrat Abdurahimov haqida:</h2>
 GITA Dasturchilar akademiyasi asoschisi!
 Dasturlashni o'qitishdagi faoliyat:
-1) 2006 yil. Dasturchiga qo'llanma kitobi
-2) 2009 yil. Dasturlashni o'rgatuvchi intellektual dastur
-3) 2010 yil. Delphi Expert video kursi
-4) 2012 yil. C++ video kursi
-5) 2014 yil. C++ Builder va Ma'lumotlar bazasi
-6) 2015 yil. PHP va MySQL video kursi
-7) 2020 yil. "GITA dasturchilar akademiyasi" faoliyat boshladi
-8) 2021 yil. Java dasturlash asoslari ma'ruzalar matni
-
+<ol>
+  <li>2006 yil. Dasturchiga qo'llanma kitobi</li>  
+  <li>2009 yil. Dasturlashni o'rgatuvchi intellektual dastur</li>  
+  <li>2010 yil. Delphi Expert video kursi</li>  
+  <li>2012 yil. C++ video kursi</li>  
+  <li>2014 yil. C++ Builder va Ma'lumotlar bazasi</li>  
+  <li>2015 yil. PHP va MySQL video kursi</li>  
+  <li>2020 yil. "GITA dasturchilar akademiyasi" faoliyat boshladi</li>  
+  <li>2021 yil. Java dasturlash asoslari ma'ruzalar matni</li>  
+</ol>
 👉 Aloqa uchun  <a href="tel:+998908083738">+998 90 808 37 38</a>, telegramda <a href="https://t.me/GitaAdmin">@gitaadmin</a> ga murojaat qilsangiz bo'ladi.
 
 <h3>Links</h3> 

@@ -16,12 +16,22 @@ Dasturlashni o'qitishdagi faoliyat:<br>
 </ol>
 👉 Aloqa uchun  <a href="tel:908083738">+998 90 808 37 38</a>, telegramda <a href="https://t.me/GitaAdmin">@gitaadmin</a> ga murojaat qilsangiz bo'ladi.
 </p>
-<h3>Links</h3> 
-GITA telegram
-<a href="https://t.me/gitauz">t.me/gitauz</a>
-GITA Youtube
-<a href="https://youtube.com/@gitauzofficial">youtube.com/@gitauzofficial</a>
-Telegram
-<a href="https://t.me/QudratAbdurahimov">t.me/QudratAbdurahimov</a>
-Instagram
-<a href="https://instagram.com/qudratabdurahimov">instagram.com/qudratabdurahimov</a>
+<h3>Links</h3>
+<ul>
+  <li>
+    GITA telegram
+    <a href="https://t.me/gitauz">t.me/gitauz</a>
+  </li>
+  <li>
+    GITA Youtube
+    <a href="https://youtube.com/@gitauzofficial">youtube.com/@gitauzofficial</a>
+  </li>
+  <li>
+    Telegram
+    <a href="https://t.me/QudratAbdurahimov">t.me/QudratAbdurahimov</a>
+  </li>
+  <li>
+    Instagram
+    <a href="https://instagram.com/qudratabdurahimov">instagram.com/qudratabdurahimov</a>
+  </li>
+</ul>

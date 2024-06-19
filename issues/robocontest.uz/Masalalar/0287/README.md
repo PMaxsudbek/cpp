@@ -1,0 +1,54 @@
+
+<h1>Masala #<a href="https://robocontest.uz/tasks/0287">0287</a> #<a href="https://robocontest.uz/tasks?category=1">Noma'lum</a></h1>
+<h2> Muallif: <a href="https://robocontest.uz/profile/sunnat">Sunatullo Hojiyev</a></h2>
+<h2>Rangli siyohlar</h2>
+<p>1, 2, 3, …, N sonlarini rangli siyohlarda yozish lozim. Bunda agar a soni b soniga bo’linib, b soni c soniga bo’linsa, u holda bu uch son bir xil rangda yozilishi mumkin emas. Shu tartibda yozish uchun kamida necha xil rang kerak bo’ladi.</p>
+<h2>Kiruvchi ma'lumotlar:</h2>
+<p>Kirish faylining yagona butun son, N (1≤N≤1018) soni kiritiladi.</p>
+<h2>Chiquvchi ma'lumotlar:</h2>
+<p>Masalada so’ralgan javobni chop eting.</p>
+<h2>Misollar</h2>
+<table>
+    <thead>
+        <tr>
+            <th>#</th>
+            <th>input.txt</th>
+            <th>output.txt</th>
+        </tr>
+    </thead>
+    <tbody>
+            <tr>
+                <td>1</td>
+                <td>3</td>
+                <td>1</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>4</td>
+                <td>2</td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>5</td>
+                <td>2</td>
+            </tr>
+            <tr>
+                <td>4</td>
+                <td>30</td>
+                <td>3</td>
+            </tr>
+    </tbody>
+    </table>
+    
+<h2>Javob:</h2>
+
+######
+```cpp
+#include <iostream>
+using namespace std;
+int main()
+{
+    // Masala hali yechilmagan
+    return 0;
+}
+```

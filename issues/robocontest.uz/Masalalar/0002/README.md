@@ -18,8 +18,6 @@ Chiqarish oqimida bitta belgi chiqarish kerak. Agar `A > B` bo'lsa `>`, agar `A 
 using namespace std;
 int main()
 {
-  long long int a,b;
-  cin >> a >> b;
-  cout << a + b;
+  return 0;
 }
 ```

@@ -1,8 +1,9 @@
 <h1>Qudrat Abdurahimov</h1>
 <h2>Qudrat Abdurahimov tomonidan ishlab chiqilgan masalalar to'plami uchun qo'llanma</h2>
 <h2>Qudrat Abdurahimov haqida:</h2>
-GITA Dasturchilar akademiyasi asoschisi!
-Dasturlashni o'qitishdagi faoliyat:
+<p>
+GITA Dasturchilar akademiyasi asoschisi!<br>
+Dasturlashni o'qitishdagi faoliyat:<br>
 <ol>
   <li>2006 yil. Dasturchiga qo'llanma kitobi</li>  
   <li>2009 yil. Dasturlashni o'rgatuvchi intellektual dastur</li>  
@@ -14,7 +15,7 @@ Dasturlashni o'qitishdagi faoliyat:
   <li>2021 yil. Java dasturlash asoslari ma'ruzalar matni</li>  
 </ol>
 👉 Aloqa uchun  <a href="tel:+998908083738">+998 90 808 37 38</a>, telegramda <a href="https://t.me/GitaAdmin">@gitaadmin</a> ga murojaat qilsangiz bo'ladi.
-
+</p>
 <h3>Links</h3> 
 GITA telegram
 <a href="https://t.me/gitauz">t.me/gitauz</a>

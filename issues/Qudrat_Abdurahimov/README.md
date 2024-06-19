@@ -1,7 +1,7 @@
 <h1>Qudrat Abdurahimov</h1>
 <h2>Qudrat Abdurahimov tomonidan ishlab chiqilgan masalalar to'plami uchun qo'llanma</h2>
 <h2>Qudrat Abdurahimov haqida:</h2>
-<p><img src="https://yt3.googleusercontent.com/Cdb3TmnasTWB4YkOH5dd26NtIff0TcqD_XYdO03P7zyr5dazkKdqv_SrbP5sNFuvoBrehM7x=s176-c-k-c0x00ffffff-no-rj">  
+<p><img src="https://yt3.googleusercontent.com/Cdb3TmnasTWB4YkOH5dd26NtIff0TcqD_XYdO03P7zyr5dazkKdqv_SrbP5sNFuvoBrehM7x=s176-c-k-c0x00ffffff-no-rj"><br>
 GITA Dasturchilar akademiyasi asoschisi!<br>
 Dasturlashni o'qitishdagi faoliyat:<br>
 <ol>

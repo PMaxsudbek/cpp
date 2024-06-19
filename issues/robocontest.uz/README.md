@@ -6,7 +6,7 @@
 </p>
 <h2>Loyihaning maqsadi</h2>
 <p>
-  Ushbu repository robocontest.uz saytida berilgan masalalarning yechimlarini o'rganish va o'z bilimlaringizni oshirish uchun yaratilgan. Har bir yechimning kodini tahlil qilib, undan qanday foydalanishni tushunishingiz mumkin.
+  Ushbu repository <a href="https://robocontest.uz/">robocontest.uz</a> saytida berilgan masalalarning yechimlarini o'rganish va o'z bilimlaringizni oshirish uchun yaratilgan. Har bir yechimning kodini tahlil qilib, undan qanday foydalanishni tushunishingiz mumkin.
 </p>
 <h2>Qo'shimcha:</h2>
 <p>

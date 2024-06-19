@@ -14,9 +14,9 @@ Ikkita butun son A va B ning yig'indisini hisoblang
     <th>output.txt</th>
   </tr>
   <tr>
+    <td>1</td>
     <td>3<br>4</td>
     <td>7</td>
-    <td>=</td>
   </tr>
 </table>
 ## Javob:

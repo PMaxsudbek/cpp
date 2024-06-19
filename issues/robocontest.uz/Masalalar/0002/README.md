@@ -7,11 +7,29 @@ Kirish oqimida ikkita butun son `A` va `B` berilgan bo'ladi, va ularning absolyu
 ## Chiquvchi ma'lumotlar:
 Chiqarish oqimida bitta belgi chiqarish kerak. Agar `A > B` bo'lsa `>`, agar `A = B` bo'lsa `=`, yoki `A < B` bo'lganda `<` belgisini.
 ## Misollar
-| # | input.txt  | output.txt  |
-|---|------------|-------------|
-| 1 | 0 0 | = |
-| 2 | 34 43 | < |
-| 3 | -34 -43 | > |
+<table>
+  <tr>
+    <th>#</th>
+    <th>input.txt</th>
+    <th>output.txt</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>0 0</td>
+    <td>=</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>34 43</td>
+    <td><</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>-34 -43</td>
+    <td>></td>
+  </tr>
+</table>
+
 ## Javob:
 ```cpp
 #include <iostream>

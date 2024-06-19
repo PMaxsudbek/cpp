@@ -1,4 +1,4 @@
-<h1>Masala <a href="https://robocontest.uz/tasks/0003">#0003</a> <a href="https://robocontest.uz/tasks?category=2">#Uzun sonlar arifmetikasi</a></h1>
+<h1>Masala #<a href="https://robocontest.uz/tasks/0003">0003</a> #<a href="https://robocontest.uz/tasks?category=2">Uzun sonlar arifmetikasi</a></h1>
 <h2> Muallif: <a href="https://robocontest.uz/profile/sunnat">Sunatullo Hojiyev</a></h2>
 <h2>A+B</h2>
 <p>

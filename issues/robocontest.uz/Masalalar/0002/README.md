@@ -1,4 +1,4 @@
-<h1>Masala <a href="https://robocontest.uz/tasks/0002">#0002</a> <a href="https://robocontest.uz/tasks?category=1">#oson</a></h1>
+<h1>Masala #<a href="https://robocontest.uz/tasks/0002">0002</a> #<a href="https://robocontest.uz/tasks?category=1">oson</a></h1>
 <h2> Muallif: <a href="https://robocontest.uz/profile/sunnat">Sunatullo Hojiyev</a></h2>
 <h2>Katta-kichik</h2>
 <p>
@@ -6,11 +6,11 @@
 </p>
 <h2>Kiruvchi ma'lumotlar:</h2>
 <p>
-	Kirish oqimida ikkita butun son `A` va `B` berilgan bo'ladi, va ularning absolyut qiymati `2×10^9` dan kichik bo'ladi
+	Kirish oqimida ikkita butun son <code>A</code> va <code>B</code> berilgan bo'ladi, va ularning absolyut qiymati <code>2×10^9</code> dan kichik bo'ladi
 </p>
 <h2>Chiquvchi ma'lumotlar:</h2>
 <p>
-	Chiqarish oqimida bitta belgi chiqarish kerak. Agar `A > B` bo'lsa `>`, agar `A = B` bo'lsa `=`, yoki `A < B` bo'lganda `<` belgisini.	
+	Chiqarish oqimida bitta belgi chiqarish kerak. Agar <code>A&lt;B</code> bo'lsa <code>&lt;</code>, agar <code>A = B</code> bo'lsa <code>=</code>, yoki <code>A&lt;B</code> bo'lganda <code>&lt;</code> belgisini.	
 </p>
 <h2>Misollar</h2>
 <table>

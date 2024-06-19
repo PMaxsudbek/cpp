@@ -10,7 +10,7 @@
 </p>
 <h2>Chiquvchi ma'lumotlar:</h2>
 <p>
-	Chiqarish oqimida bitta belgi chiqarish kerak. Agar <code>A&lt;B</code> bo'lsa <code>&lt;</code>, agar <code>A = B</code> bo'lsa <code>=</code>, yoki <code>A&lt;B</code> bo'lganda <code>&lt;</code> belgisini.	
+	Chiqarish oqimida bitta belgi chiqarish kerak. Agar <code>A &gt; B</code> bo'lsa <code>&gt;</code>, agar <code>A = B</code> bo'lsa <code>=</code>, yoki <code>A &lt; B</code> bo'lganda <code>&lt;</code> belgisini.	
 </p>
 <h2>Misollar</h2>
 <table>

@@ -11,9 +11,7 @@ U quyidagi shartlarni bajarilishini xohlaydi:
 </ul>
 Do'kon egasining xohishiga binoan do'konni bezash mumkin bo'lgan variantlar sonini aniqlang.
 Masalan, <code>N = 3</code> bo'lganda quyidagi variantlar bo'ladi
-<p style="background:#0099ff;width:100px;height:20px;"></p>
-<p style="background:#ffffff;width:100px;height:20px;"></p>
-<p style="background:#00ff00;width:100px;height:20px;"></p>
+<img scr="https://github.com/PMaxsudbek/cpp/blob/main/issues/robocontest.uz/Masalalar/0007/image.png">
 </p>
 <h2>Kiruvchi ma'lumotlar:</h2>
 <p>

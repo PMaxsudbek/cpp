@@ -41,8 +41,7 @@
 </table>
 <h2>Javob:</h2
 
-
-```cpp
+		    ```cpp
 #include <iostream>
 using namespace std;
 int main()

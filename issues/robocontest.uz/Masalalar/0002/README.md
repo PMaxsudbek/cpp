@@ -8,28 +8,31 @@ Kirish oqimida ikkita butun son `A` va `B` berilgan bo'ladi, va ularning absolyu
 Chiqarish oqimida bitta belgi chiqarish kerak. Agar `A > B` bo'lsa `>`, agar `A = B` bo'lsa `=`, yoki `A < B` bo'lganda `<` belgisini.
 ## Misollar
 <table>
-  <tr>
-    <th>#</th>
-    <th>input.txt</th>
-    <th>output.txt</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>0 0</td>
-    <td>=</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>34 43</td>
-    <td><</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>-34 -43</td>
-    <td>></td>
-  </tr>
+  <thead>
+  	<tr>
+		<th>#</th>
+	    <th>input.txt</th>
+	    <th>output.txt</th>
+  	</tr>
+  </thead>
+  <tbody>
+  	<tr>
+		<td>1</td>
+	    <td>0 0</td>
+	    <td>=</td>
+	</tr>
+	  <tr>
+	    <td>2</td>
+	    <td>34 43</td>
+	    <td><</td>
+	</tr>
+	<tr>
+	    <td>3</td>
+	    <td>-34 -43</td>
+	    <td>></td>
+	</tr>
+  </tbody>
 </table>
-
 ## Javob:
 ```cpp
 #include <iostream>

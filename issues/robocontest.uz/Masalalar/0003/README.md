@@ -30,7 +30,6 @@
   </tbody>
 </table>
 <h2>Javob:</h2>
-
 ```cpp
 #include <iostream>
 using namespace std;

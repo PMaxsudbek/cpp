@@ -15,13 +15,12 @@ Masalan, <code>N = 3</code> bo'lganda quyidagi variantlar bo'ladi
 </p>
 <h2>Kiruvchi ma'lumotlar:</h2>
 <p>
-	<code>INPUT.TXT</code> kirish faylida yagona butun son, <code>Z(−10^9 ≤ Z ≤ 10^9)</code> soni kiritiladi.
+	<code>INPUT.TXT</code> kirish faylining yagona satrida bitta butun son, <code>N</code> – chiziqlar soni kiritiladi.
+<code>(1 ≤ N ≤ 45)</code>
 </p>
 <h2>Chiquvchi ma'lumotlar:</h2>
 <p>
-	<code>OUTPUT.TXT</code> faylida yagona son, yuqoridagi shartlarni qanoatlantiruvchi 
-<code>(X, Y)</code> juftliklar sonini chop eting, agar bunday juftliklar cheksiz bo'lsa 
-<code>−1</code> chiqaring.
+	<code>OUTPUT.TXT</code> chiqish faylida bitta butun son, do’kon oynasining bo’yalishi mumkin bo’lgan variantlar sonini chiqaring!
 </p>
 <h2>Misollar</h2>
 <table>
@@ -35,8 +34,8 @@ Masalan, <code>N = 3</code> bo'lganda quyidagi variantlar bo'ladi
   <tbody>
   	<tr>
 		  <td>1</td>
-	    <td>-2</td>
-	    <td>2</td>
+	    <td>3</td>
+	    <td>4</td>
 	  </tr>
   </tbody>
 </table>

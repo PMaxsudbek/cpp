@@ -31,11 +31,11 @@
 </table>
 <h2>Javob:</h2>
 
-<code type="cpp">
-#include &lt;iostream&gt;
+```cpp
+#include <iostream>
 using namespace std;
 int main()
 {
-    return 0;
+  return 0;
 }
-</code>
+```

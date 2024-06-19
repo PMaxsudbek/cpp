@@ -10,7 +10,7 @@ U quyidagi shartlarni bajarilishini xohlaydi:
   <li>Oq chiziq faqat moviy va yashil orasida joylashgan bo'lishi mumkin.</li>
 </ul>
 Do'kon egasining xohishiga binoan do'konni bezash mumkin bo'lgan variantlar sonini aniqlang.
-Masalan, <code>N = 3</code> bo'lganda quyidagi variantlar bo'ladi<br>
+Masalan, <code>N = 3</code> bo'lganda quyidagi variantlar bo'ladi</br>
 <img src="https://github.com/PMaxsudbek/cpp/blob/main/issues/robocontest.uz/Masalalar/0007/image.png">
 </p>
 <h2>Kiruvchi ma'lumotlar:</h2>

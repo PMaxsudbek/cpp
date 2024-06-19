@@ -30,10 +30,20 @@ Masalan:
   </thead>
   <tbody>
   	<tr>
-		  <td>1</td>
-	    <td>1 2 3 4 5</td>
-	    <td>10 14</td>
-	  </tr>
+		<td>1</td>
+		<td>1<br>1</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>1</td>
+		<td>3<br>1 1 2</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>1</td>
+		<td>5<br>0 0 1 2 1</td>
+		<td>2</td>
+	</tr>
   </tbody>
 </table>
 <h2>Javob:</h2>

@@ -7,10 +7,20 @@ Ikkita butun son A va B ning yig'indisini hisoblang
 ## Chiquvchi ma'lumotlar:
 `OUTPUT.TXT` chiqish faylining yagona satrida berilgan ikki sonning yig'indisini(boshlang'ich nollarsiz) chiqaring.
 ## Misollar
-| # | input.txt  | output.txt  |
-|---|------------|-------------|
-| 3 
-4 | 7 | = |
+
+<table>
+  <tr>
+    <th>#</th>
+    <th>input.txt</th>
+    <th>output.txt</th>
+  </tr>
+  <tr>
+    <td>3<br>4</td>
+    <td>7</td>
+    <td>=</td>
+  </tr>
+</table>
+
 ## Javob:
 ```cpp
 #include <iostream>

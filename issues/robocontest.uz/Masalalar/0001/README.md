@@ -1,4 +1,4 @@
-<h1>Masala <a href="https://robocontest.uz/tasks/0001">#0001</a> <a href="https://robocontest.uz/tasks?category=1">#oson</a></h1>
+<h1>Masala #<a href="https://robocontest.uz/tasks/0001">0001</a> #<a href="https://robocontest.uz/tasks?category=1">Oson</a></h1>
 <h2> Muallif: <a href="https://robocontest.uz/profile/sunnat">Sunatullo Hojiyev</a></h2>
 <h2>A+B</h2>
 <p>

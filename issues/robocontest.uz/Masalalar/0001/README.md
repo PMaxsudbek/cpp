@@ -6,7 +6,7 @@
 </p>
 <h2>Kiruvchi ma'lumotlar:</h2>
 <p>
-	Kirish oqimida ikkita butun son kiritiladi, sonlar `10^9` dan kam
+	Kirish oqimida ikkita butun son kiritiladi, sonlar <code>10^9</code> dan kam
 </p>
 <h2>Chiquvchi ma'lumotlar:</h2>
 <p>

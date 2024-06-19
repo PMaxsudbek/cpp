@@ -7,7 +7,6 @@ Ikkita butun son A va B ning yig'indisini hisoblang
 ## Chiquvchi ma'lumotlar:
 `OUTPUT.TXT` chiqish faylining yagona satrida berilgan ikki sonning yig'indisini(boshlang'ich nollarsiz) chiqaring.
 ## Misollar
-
 <table>
   <tr>
     <th>#</th>
@@ -20,7 +19,6 @@ Ikkita butun son A va B ning yig'indisini hisoblang
     <td>=</td>
   </tr>
 </table>
-
 ## Javob:
 ```cpp
 #include <iostream>

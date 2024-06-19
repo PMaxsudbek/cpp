@@ -7,20 +7,20 @@
 Grigorian taqvimida kabisa yili hisoblanadi:
   <ul>
     <li>
-      yil raqami 400 ga bo'linadigan yil
+      yil raqami <code>400</code> ga bo'linadigan yil
     </li>
     <li>
-      yil raqami 4 ga bo'linadigan, ammo, 100 ga bo'linmaydigan yil
+      yil raqami <code>4</code> ga bo'linadigan, ammo, <code>100</code> ga bo'linmaydigan yil
     </li>
   </ul>
 </p>
 <h2>Kiruvchi ma'lumotlar:</h2>
 <p>
-	<code>INPUT.TXT</code> kirish faylining yagona satrida bizning eraga tegishli bo'lgan yilning nomerini ifodalaydigan 1 dan 9999 gacha bo'lgan butun son berilgan.
+	<code>INPUT.TXT</code> kirish faylining yagona satrida bizning eraga tegishli bo'lgan yilning nomerini ifodalaydigan <code>1</code> dan <code>9999</code> gacha bo'lgan butun son berilgan.
 </p>
 <h2>Chiquvchi ma'lumotlar:</h2>
 <p>
-	<code>OUTPUT.TXT</code> chiqish faylining yagona satrida dasturchilar kuni sanasini DD/MM/YYYY formatida chop eting. bu yerda DD — sana, MM — oy raqami(01 — yanvar, 02 — fevral, ..., 12 — dekabr), YYYY — yil raqami.
+	<code>OUTPUT.TXT</code> chiqish faylining yagona satrida dasturchilar kuni sanasini <code>DD/MM/YYYY</code> formatida chop eting. bu yerda <code>DD</code> — sana, <code>MM</code> — oy raqami(<code>01</code> — yanvar, <code>02</code> — fevral, ..., <code>12</code> — dekabr), <code>YYYY</code> — yil raqami.
 </p>
 <h2>Misollar</h2>
 <table>

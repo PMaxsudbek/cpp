@@ -14,7 +14,7 @@ Dasturlashni o'qitishdagi faoliyat:<br>
   <li>2020 yil. "GITA dasturchilar akademiyasi" faoliyat boshladi</li>  
   <li>2021 yil. Java dasturlash asoslari ma'ruzalar matni</li>  
 </ol>
-👉 Aloqa uchun  <a href="tel:+998908083738">+998 90 808 37 38</a>, telegramda <a href="https://t.me/GitaAdmin">@gitaadmin</a> ga murojaat qilsangiz bo'ladi.
+👉 Aloqa uchun  <a href="tel:908083738">+998 90 808 37 38</a>, telegramda <a href="https://t.me/GitaAdmin">@gitaadmin</a> ga murojaat qilsangiz bo'ladi.
 </p>
 <h3>Links</h3> 
 GITA telegram

@@ -31,7 +31,7 @@
 </table>
 <h2>Javob:</h2>
 
-<pre><code>
+<pre><code type="cpp">
 #include &lt;iostream&gt;
 using namespace std;
 int main()

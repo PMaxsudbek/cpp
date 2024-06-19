@@ -1,4 +1,4 @@
-<h1>Masala #<a href="https://robocontest.uz/tasks/0010">0010</a> #<a href="https://robocontest.uz/tasks?category=3">Dinamik dasturlash</a></h1>
+<h1>Masala #<a href="https://robocontest.uz/tasks/0010">0010</a> #<a href="https://robocontest.uz/tasks?category=1">Oson</a></h1>
 <h2> Muallif: <a href="https://robocontest.uz/profile/sunnat">Sunatullo Hojiyev</a></h2>
 <h2>Yangi yil sovg'asi</h2>
 <p>

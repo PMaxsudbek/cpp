@@ -1,0 +1,75 @@
+
+<h1>Masala #<a href="https://robocontest.uz/tasks/0048">0048</a> #<a href="https://robocontest.uz/tasks?category=1">Oson</a></h1>
+<h2> Muallif: <a href="https://robocontest.uz/profile/sunnat">Sunatullo Hojiyev</a></h2>
+<h2>Floyd uchburchagi</h2>
+<p>Floyd uchburchagi bu teng yonli to’g’ri burchakli uchburchak shaklidagi natural sonlar to’plami, informatika fanlarida qo’llaniladi. U Robert Floyd sharafiga nomlangan. Bu uchburchakning qatorlarini ketma-ket raqamlar bilan to'ldirish orqali aniqlanadi, yuqori chap burchakda 1 dan boshlanadi:
+1
+
+
+
+
+2
+3
+
+
+
+4
+5
+6
+
+
+7
+8
+9
+10
+
+11
+12
+13
+14
+15</p>
+<h2>Kiruvchi ma'lumotlar:</h2>
+<p>INPUT.TXT kirish faylining yagona satrida [1 … 50] oralig’idagi bitta natural son, Floyd uchburchagi kateti uzunligi kiritiladi.</p>
+<h2>Chiquvchi ma'lumotlar:</h2>
+<p>OUTPUT.TXT chiqish faylida Floyd uchburchagini chop eting</p>
+<h2>Misollar</h2>
+<table>
+    <thead>
+        <tr>
+            <th>#</th>
+            <th>input.txt</th>
+            <th>output.txt</th>
+        </tr>
+    </thead>
+    <tbody>
+            <tr>
+                <td>1</td>
+                <td>3</td>
+                <td>1
+2 3
+4 5 6</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>5</td>
+                <td>1
+2 3
+4 5 6
+7 8 9 10
+11 12 13 14 15</td>
+            </tr>
+    </tbody>
+    </table>
+    
+<h2>Javob:</h2>
+
+######
+```cpp
+#include <iostream>
+using namespace std;
+int main()
+{
+    // Masala hali yechilmagan
+    return 0;
+}
+```

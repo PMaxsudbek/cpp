@@ -2,7 +2,7 @@
 <h2> Muallif: <a href="https://robocontest.uz/profile/sunnat">Sunatullo Hojiyev</a></h2>
 <h2>A+B</h2>
 <p>
-	Ikkita butun son <span>A</span> va `B` ning yig'indisini hisoblang
+	Ikkita butun son <code>A</code> va `B` ning yig'indisini hisoblang
 </p>
 <h2>Kiruvchi ma'lumotlar:</h2>
 <p>

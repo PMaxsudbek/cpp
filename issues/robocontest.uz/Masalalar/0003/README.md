@@ -2,15 +2,15 @@
 <h2> Muallif: <a href="https://robocontest.uz/profile/sunnat">Sunatullo Hojiyev</a></h2>
 <h2>A+B</h2>
 <p>
-	Ikkita butun son <code>A</code> va `B` ning yig'indisini hisoblang
+	Ikkita butun son <code>A</code> va <code>B</code> ning yig'indisini hisoblang
 </p>
 <h2>Kiruvchi ma'lumotlar:</h2>
 <p>
-	`INPUT.TXT` kirish faylining alohida qatorlarida ikkita manfiy bo'lmagan butun sonlar berilgan, sonlar `10^100` dan oshmaydi.
+	<code>INPUT.TXT</code> kirish faylining alohida qatorlarida ikkita manfiy bo'lmagan butun sonlar berilgan, sonlar <code>10^100</code> dan oshmaydi.
 </p>
 <h2>Chiquvchi ma'lumotlar:</h2>
 <p>
-	`OUTPUT.TXT` chiqish faylining yagona satrida berilgan ikki sonning yig'indisini(boshlang'ich nollarsiz) chiqaring.
+	<code>OUTPUT.TXT</code> chiqish faylining yagona satrida berilgan ikki sonning yig'indisini(boshlang'ich nollarsiz) chiqaring.
 </p>
 <h2>Misollar</h2>
 <table>
@@ -31,12 +31,11 @@
 </table>
 <h2>Javob:</h2>
 
-######
-```cpp
-#include <iostream>
+<pre><code>
+#include &lt;iostream&gt;
 using namespace std;
 int main()
 {
-  return 0;
+    return 0;
 }
-```
+</code></pre>

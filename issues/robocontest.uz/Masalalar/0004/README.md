@@ -2,7 +2,7 @@
 <h2> Muallif: <a href="https://robocontest.uz/profile/sunnat">Sunatullo Hojiyev</a></h2>
 <h2>Direktor tashrifi</h2>
 <p>
-	Tez orada RoboContest tizimining qanday ishlayotganligini tekshirish uchun RoboticsLab direktori ishxonamizga tashrif buyuradi. Biz direktorni tantanali kutib olish maqsadida direktorning moshinadan tushgan joyidan ishxonamiz eshigigacha bo'lgan oraliqga gilam to'shashga qaror qildik. Bizga ma'lumki direktorning mashinasi to'xtatiladigan joydan ishxonamiz kirish eshigigacha bo'lgan masofa <code>N</code> metr, bozorda 1 metr gilamning narxi <code>P</code> so'm. Biz gilam sotib olish uchun jami qancha mablag' sarflashimizni aniqlang!.
+	Tez orada RoboContest tizimining qanday ishlayotganligini tekshirish uchun RoboticsLab direktori ishxonamizga tashrif buyuradi. Biz direktorni tantanali kutib olish maqsadida direktorning moshinadan tushgan joyidan ishxonamiz eshigigacha bo'lgan oraliqga gilam to'shashga qaror qildik. Bizga ma'lumki direktorning mashinasi to'xtatiladigan joydan ishxonamiz kirish eshigigacha bo'lgan masofa <code>N</code> metr, bozorda <code>1</code> metr gilamning narxi <code>P</code> so'm. Biz gilam sotib olish uchun jami qancha mablag' sarflashimizni aniqlang!.
 </p>
 <h2>Kiruvchi ma'lumotlar:</h2>
 <p>

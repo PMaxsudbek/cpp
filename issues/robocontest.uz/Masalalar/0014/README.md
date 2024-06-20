@@ -10,7 +10,7 @@ Shu sayyorada bir inson jonivordan virus yuqtirib olganidan <code>N</code> kunda
 <h2>Kiruvchi ma'lumotlar:</h2>
 <p><code>INPUT.TXT</code> kirish faylining yagona satrida ikkita butun son, <code>N</code> va <code>K</code> <code>(0 ≤ N, K ≤ 10^9)</code> sonlari kiritiladi.</p>
 <h2>Chiquvchi ma'lumotlar:</h2>
-<p><code>OUTPUT.TXT</code> chiqish faylida yagona son, masala yechimning <code>1000000007(10^9+7)<code>ga bo'lgandagi qoldig'ini chiqaring.</p>
+<p><code>OUTPUT.TXT</code> chiqish faylida yagona son, masala yechimning <code>1000000007(10^9+7)</code>code>ga bo'lgandagi qoldig'ini chiqaring.</p>
 <h2>Misollar</h2>
 <table>
     <thead>

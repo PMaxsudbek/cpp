@@ -2,33 +2,33 @@
 <h1>Masala #<a href="https://robocontest.uz/tasks/0016">0016</a> #<a href="https://robocontest.uz/tasks?category=1">Noma'lum</a></h1>
 <h2> Muallif: <a href="https://robocontest.uz/profile/sunnat">Sunatullo Hojiyev</a></h2>
 <h2>Natural son</h2>
-<p>\(N\)natural sonning o’zbek lotin yozuvida yozilishini chop eting.
-1 – bir
-2 – ikki
-3 – uch
-4 – to’rt
-5 – besh
-6 – olti
-7 – yetti
-8 – sakkiz
-9 – to’qqiz
-10 – o’n
-20 – yigirma
-30 – o’ttiz
-40 – qirq
-50 – ellik
-60 – oltmish
-70 – yetmish
-80 – sakson
-90 – to’qson
-100 – bir yuz
-1000 – bir ming
-1000000 – bir million
-1000000000 – bir milliard</p>
+<p><code>N</code> natural sonning o'zbek lotin yozuvida yozilishini chop eting.<br>
+<code>1</code> – bir<br>
+<code>2</code> – ikki<br>
+<code>3</code> – uch<br>
+<code>4</code> – to’rt<br>
+<code>5</code> – besh<br>
+<code>6</code> – olti<br>
+<code>7</code> – yetti<br>
+<code>8</code> – sakkiz<br>
+<code>9</code> – to’qqiz<br>
+<code>10</code> – o’n<br>
+<code>20</code> – yigirma<br>
+<code>30</code> – o’ttiz<br>
+<code>40</code> – qirq<br>
+<code>50</code> – ellik<br>
+<code>60</code> – oltmish<br>
+<code>70</code> – yetmish<br>
+<code>80</code> – sakson<br>
+<code>90</code> – to’qson<br>
+<code>100</code> – bir yuz<br>
+<code>1000</code> – bir ming<br>
+<code>1000000</code> – bir million<br>
+<code>1000000000</code> – bir milliard</p>
 <h2>Kiruvchi ma'lumotlar:</h2>
-<p>INPUT.TXT kirish faylida yagona natural son,\(N(1 ≤ N < 10^{12})\)soni kiritiladi.</p>
+<p><code>INPUT.TXT</code> kirish faylida yagona natural son, <code>N(1 ≤ N < 10^12)</code> soni kiritiladi.</p>
 <h2>Chiquvchi ma'lumotlar:</h2>
-<p>OUTPUT.TXT chiqish faylida\(N\)sonining o’zbek lotin yozuvida yozilishini chop eting!</p>
+<p><code>OUTPUT.TXT</code> chiqish faylida <code>N</code>sonining o’zbek lotin yozuvida yozilishini chop eting!</p>
 <h2>Misollar</h2>
 <table>
     <thead>

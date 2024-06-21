@@ -1,4 +1,4 @@
-<h1><a href="https://robocontest.uz/">robocontest.uz</a> saytidagi masalalarga yechimlari</h1>
+<h1><a href="https://robocontest.uz/">robocontest.uz</a> saytidagi masalalarga yechimlar</h1>
 <a href="https://robocontest.uz/profile/pmaxsudbek" title="Robocontest Profile" target="_blank">
     <img width="100" src="https://robocontest.uz/favicon.png" alt="Robocontest Logo">
   </a>

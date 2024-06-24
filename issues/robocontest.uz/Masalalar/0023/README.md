@@ -4,7 +4,7 @@
 <h2>Oxirgi raqam</h2>
 <p>Natural son berilgan,uning oxirgi raqamini toping.</p>
 <h2>Kiruvchi ma'lumotlar:</h2>
-<p>Kirish faylida N(1 ≤ N ≤ 109) natural soni kiritiladi.</p>
+<p>Kirish faylida <code>N(1 ≤ N ≤ 10^9)</code> natural soni kiritiladi.</p>
 <h2>Chiquvchi ma'lumotlar:</h2>
 <p>Bitta butun son - masala javobini chiqaring.</p>
 <h2>Misollar</h2>

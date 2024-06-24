@@ -5,7 +5,7 @@
     <code>n</code> ta elementdan iborat bo'lgan butun sonli <code>a</code> massiv berilgan. Ushbu massivda quyidagi shartni qanoatlantiruvchi elementlar juftligi sonini aniqlang:</p>
     <ul>
         <li><code>i &lt; j</code></li>
-        <li>a[i] &gt; 2*a[j]</li>
+        <li><code>a[i] &gt; 2*a[j]</code></li>
     </ul>
 <h2>Kiruvchi ma'lumotlar:</h2>
 <p>

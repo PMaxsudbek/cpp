@@ -6,7 +6,7 @@
 </p>
 <h2>Kiruvchi ma'lumotlar:</h2>
 <p>
-	Kirish oqimida ikkita butun son <code>A</code> va <code>B</code> berilgan bo'ladi, va ularning absolyut qiymati <code>2×10^9</code> dan kichik bo'ladi
+	Kirish oqimida ikkita butun son <code>A</code> va <code>B</code> berilgan bo'ladi, va ularning absolyut qiymati <code>2×10<sup>9</sup></code> dan kichik bo'ladi
 </p>
 <h2>Chiquvchi ma'lumotlar:</h2>
 <p>

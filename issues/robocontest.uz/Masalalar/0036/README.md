@@ -12,6 +12,21 @@
     </li>
 </ul>
     Boshqacha qilib aytganda <code>A<sub>i,j</sub></code>  - jadvalda o'z o'rnidan chapda ham, yuqorida ham uchramaydigan eng kichik nomanfiy sondir.
+    Masalan <code>N = 1</code> va <code>M = 2</code> bo'lganda quyidagicha jadval hosil bo'ladi:
+    <table>
+        <tr>
+            <td>0</td>
+            <td>1</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>0</td>
+            <td>3</td>
+        </tr>
+    </table>
+    Endi unga <code>∑<sub>i=0</sub>N</code> <code>∑<sub>j=0</sub>M</code> yig'indining qiymatini hisoblashga qiziqib qoldi.<br>
+    Sizning vazifangiz ham u hisoblagan yig'indini hisoblashdan iborat.<br>
 </p>
 <h2>Kiruvchi ma'lumotlar:</h2>
 <p><code>INPUT.TXT</code> kirish faylining yagona satrida ikkita natural son, <code>N</code> va <code>M(1 ≤ N, M ≤ 10<sup>9</sup>)</code></p>

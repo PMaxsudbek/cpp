@@ -40,12 +40,11 @@
 <h2>Javob:</h2>
 
 ######
-
-<code translate="cpp">
+```cpp
 #include <iostream>
 using namespace std;
 int main()
 {
   return 0;
 }
-</code>
+```

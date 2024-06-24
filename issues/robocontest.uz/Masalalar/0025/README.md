@@ -1,11 +1,10 @@
-
 <h1>Masala #<a href="https://robocontest.uz/tasks/0025">0025</a> #<a href="https://robocontest.uz/tasks?category=2">Uzun sonlar arifmetikasi</a></h1>
 <h2> Muallif: <a href="https://robocontest.uz/profile/sunnat">Sunatullo Hojiyev</a></h2>
 <h2>Elektron soat</h2>
-<p>Elektron soat h:mm:ss (0:00:00 dan 23:59:59 gacha) formatida ishlaydi, oldin soat, keyin ikki katakda minut, va keyin ikki katakda sekund. Minutlar va sekundlar soni kerak paytlarda 0 lar bilan to`ldirilishi mumkin.
-Sana boshidan\(N\)sekund vaqt o`tdi. Soat qaysi vaqtni ko`rsatishini aniqlang.</p>
+<p>Elektron soat <code>h:mm:ss</code> (<code>0:00:00</code> dan <code>23:59:59</code> gacha) formatida ishlaydi, oldin soat, keyin ikki katakda minut, va keyin ikki katakda sekund. Minutlar va sekundlar soni kerak paytlarda 0 lar bilan to`ldirilishi mumkin.
+Sana boshidan <code>N</code> sekund vaqt o`tdi. Soat qaysi vaqtni ko`rsatishini aniqlang.</p>
 <h2>Kiruvchi ma'lumotlar:</h2>
-<p>Bitta natural\(N(1 ≤ N ≤ 10^{700})\)soni kiritiladi.</p>
+<p>Bitta natural <code>N(1 ≤ N ≤ 10^700)</code> soni kiritiladi.</p>
 <h2>Chiquvchi ma'lumotlar:</h2>
 <p>Masala javobini chiqaring.</p>
 <h2>Misollar</h2>

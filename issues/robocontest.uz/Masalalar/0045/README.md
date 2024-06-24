@@ -2,9 +2,10 @@
 <h2> Muallif: <a href="https://robocontest.uz/profile/sunnat">Sunatullo Hojiyev</a></h2>
 <h2>Uchburchakli sonlar</h2>
 <p>Uchburchakli sonlar teng tomonli uchburchakda joylashtirilgan jismlar sonidir (shu tariqa uchburchakli sonlar figurali sonlar turiga kiradi). <code>N</code> - chi uchburchakli son - bu yon tomonda <code>n</code> ta nuqta bo'lgan uchburchak tartibidagi nuqtalar soni va <code>1</code> dan <code>n</code> gacha bo'lgan <code>n</code> ta natural sonning yig'indisiga teng miqdorda nuqtadan iboratdir. Uchburchakli sonlar <code>0</code> - tartibdan boshlanadi va dastlabki elementlari quyidagilardir:
-<code>0</code>, <code>1</code>, <code>3</code>, <code>6</code>, <code>10</code>, <code>15</code>, <code>21</code>, <code>28</code>, <code>36</code>, <code>45</code>, <code>55</code>, <code>66</code>, <code>78</code>, <code>91</code>, <code>105</code>, <code>120</code>, <code>136</code>, <code>153</code>, <code>171</code>, <code>190</code>, <code>210</code>, <code>231</code>, <code>253</code>, <code>276</code>, <code>300</code>, <code>325</code>, <code>351</code>, <code>378</code>, <code>406</code>, <code>435</code>, <code>465</code>, <code>496</code>, <code>528</code>, <code>561</code>, <code>595</code>, <code>630</code>, <code>666</code> <code>...</code>
+<code>0</code>, <code>1</code>, <code>3</code>, <code>6</code>, <code>10</code>, <code>15</code>, <code>21</code>, <code>28</code>, <code>36</code>, <code>45</code>, <code>55</code>, <code>66</code>, <code>78</code>, <code>91</code>, <code>105</code>, <code>120</code>, <code>136</code>, <code>153</code>, <code>171</code>, <code>190</code>, <code>210</code>, <code>231</code>, <code>253</code>, <code>276</code>, <code>300</code>, <code>325</code>, <code>351</code>, <code>378</code>, <code>406</code>, <code>435</code>, <code>465</code>, <code>496</code>, <code>528</code>, <code>561</code>, <code>595</code>, <code>630</code>, <code>666</code> <code>...</code><br>
 Quyida <code>1</code> dan <code>6</code> gacha tartibdagi uchburchakli sonlar ifodalangan:
-</p>
+</p><br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/First_six_triangular_numbers.svg/1024px-First_six_triangular_numbers.svg.png" alt="0045 img"><br>
 <h2>Kiruvchi ma'lumotlar:</h2>
 <p><code>INPUT.TXT</code> kirish faylining yagona satrida bitta butun son, <code>N(0 ≤ N ≤ 10<sup>9</sup>)</code> soni kiritiladi</p>
 <h2>Chiquvchi ma'lumotlar:</h2>

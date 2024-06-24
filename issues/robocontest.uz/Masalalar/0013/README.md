@@ -1,4 +1,3 @@
-
 <h1>Masala #<a href="https://robocontest.uz/tasks/0013">0013</a> #<a href="https://robocontest.uz/tasks?category=1">Oson</a></h1>
 <h2> Muallif: <a href="https://robocontest.uz/profile/sunnat">Sunatullo Hojiyev</a></h2>
 <h2>Virus №1</h2>
@@ -8,7 +7,7 @@ Bu virus faqatgina virus bilan kasallangan inson boshqa bir sog'lom inson bilan 
 Uxonoid sayyorasida yashovchi insonlarning har biri bir kun mobaynida aynan <code>K</code> ta inson bilan ko'rishadi.
 Shu sayyorada bir inson jonivordan virus yuqtirib olganidan <code>N</code> kundan keyin sayyorada virus bilan kasallanganlar soni eng kamida nechta bo'lishini aniqlang.</p>
 <h2>Kiruvchi ma'lumotlar:</h2>
-<p><code>INPUT.TXT</code> kirish faylining yagona satrida ikkita butun son, <code>N</code> va <code>K</code> <code>(0 ≤ N, K ≤ 10^9)</code> sonlari kiritiladi.</p>
+<p><code>INPUT.TXT</code> kirish faylining yagona satrida ikkita butun son, <code>N</code> va <code>K</code> <code>(0 ≤ N, K ≤ 10<sup>9</sup>)</code> sonlari kiritiladi.</p>
 <h2>Chiquvchi ma'lumotlar:</h2>
 <p><code>OUTPUT.TXT</code> chiqish faylida yagona son, masala yechimini chiqaring.</p>
 <h2>Misollar</h2>
@@ -32,8 +31,7 @@ Shu sayyorada bir inson jonivordan virus yuqtirib olganidan <code>N</code> kunda
                 <td>8</td>
             </tr>
     </tbody>
-    </table>
-    
+</table>
 <h2>Javob:</h2>
 
 ######

@@ -2,9 +2,9 @@
 <h1>Masala #<a href="https://robocontest.uz/tasks/0022">0022</a> #<a href="https://robocontest.uz/tasks?category=1">Oson</a></h1>
 <h2> Muallif: <a href="https://robocontest.uz/profile/sunnat">Sunatullo Hojiyev</a></h2>
 <h2>Ikki xonali sonning birinchi raqami</h2>
-<p>Ikki xonali son berilgan. Uning birinchi raqamini(o`nliklar sonini ) aniqlang.</p>
+<p>Ikki xonali son berilgan. Uning birinchi raqamini (o`nliklar sonini) aniqlang.</p>
 <h2>Kiruvchi ma'lumotlar:</h2>
-<p>Kirish faylida ikki xonali natural N soni berilgan.</p>
+<p>Kirish faylida ikki xonali natural <code>N</code> soni berilgan.</p>
 <h2>Chiquvchi ma'lumotlar:</h2>
 <p>Bitta butun son - masala javobini chiqaring.</p>
 <h2>Misollar</h2>

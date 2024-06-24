@@ -1,10 +1,9 @@
-
 <h1>Masala #<a href="https://robocontest.uz/tasks/0024">0024</a> #<a href="https://robocontest.uz/tasks?category=1">Oson</a></h1>
 <h2> Muallif: <a href="https://robocontest.uz/profile/sunnat">Sunatullo Hojiyev</a></h2>
 <h2>Vaqtlar oralig'i</h2>
 <p>Bir sutkadagi ikki vaqt ko'rsatkichlari berilgan. Ikkinchi ko`rsatilgan vaqt birinchi ko`rsatilgan vaqtdan oldin kelmaganligi anniq. Ikki vaqt ko`rsatkichlari oralig'ida necha sekund borligini aniqlang.</p>
 <h2>Kiruvchi ma'lumotlar:</h2>
-<p>INPUT.TXT kirish fayli ikki qatordan iborat, har bir qatorda vaqt ko'rsatkichi ifodalangan: birinchi qator - birinchi vaqt birliklari, ikkinchi qatorda - ikkinchi vaqt birliklari. Har bir vaqt birligi uchta manfiy bo'lmagan butun sondan iborat:\(H\),\(M\)va\(S\)- soat, minut va sekund\((H ≤ 23, M ≤ 59, S ≤ 59)\).</p>
+<p><code>INPUT.TXT</code> kirish fayli ikki qatordan iborat, har bir qatorda vaqt ko'rsatkichi ifodalangan: birinchi qator - birinchi vaqt birliklari, ikkinchi qatorda - ikkinchi vaqt birliklari. Har bir vaqt birligi uchta manfiy bo'lmagan butun sondan iborat: <code>H</code>, <code>M</code> va <code>S</code> - soat, minut va sekund <code>(H ≤ 23, M ≤ 59, S ≤ 59)</code>.</p>
 <h2>Chiquvchi ma'lumotlar:</h2>
 <p>Bitta butun son - masala javobini chiqaring.</p>
 <h2>Misollar</h2>

@@ -2,9 +2,9 @@
 <h1>Masala #<a href="https://robocontest.uz/tasks/0020">0020</a> #<a href="https://robocontest.uz/tasks?category=1">Oson</a></h1>
 <h2> Muallif: <a href="https://robocontest.uz/profile/sunnat">Sunatullo Hojiyev</a></h2>
 <h2>Niqob - №2</h2>
-<p>\(N\)ta talaba\(K\)ta niqob sotib olishdi va niqoblarni teng bo`lishishga kelishishdi. Hamma talaba o`zaro teng niqob olgandan keyin nechta niqob qolishini aniqlang.</p>
+<p><code>N</code> ta talaba <code>K</code> ta niqob sotib olishdi va niqoblarni teng bo`lishishga kelishishdi. Hamma talaba o`zaro teng niqob olgandan keyin nechta niqob qolishini aniqlang.</p>
 <h2>Kiruvchi ma'lumotlar:</h2>
-<p>Kirish faylida ikkita musbat butun son,\(N\)va\(K\)sonlari kiritiladi, sonlar qiymati\(10000\)dan oshmaydi.</p>
+<p>Kirish faylida ikkita musbat butun son, <code>N</code> va <code>K</code> sonlari kiritiladi, sonlar qiymati <code>10000</code> dan oshmaydi.</p>
 <h2>Chiquvchi ma'lumotlar:</h2>
 <p>Bitta butun son - masala javobini chiqaring.</p>
 <h2>Misollar</h2>

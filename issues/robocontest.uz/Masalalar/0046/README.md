@@ -2,7 +2,7 @@
 <h2> Muallif: <a href="https://robocontest.uz/profile/sunnat">Sunatullo Hojiyev</a></h2>
 <h2>Paskal uchburchagi</h2>
 <p>
-    Paskal uchburchagi quyidagi jadval ko’rinishida bo’ladi: birinchi qator birinchi pozitsiyalarda ikkita birdan tashkil topadi, har bir navbatdagisi esa birinchi pozitsiyada bir, boshqalarida esa oldingi qatordagi mazkur va oldingi pozitsiyalardagi elementlar yig’indisi yordamida hisoblanadi. Oxirgi elementi ham bir ga teng. Shunday qilib quyidagi uchburchak hosil qilinadi
+    <code>Paskal</code> uchburchagi quyidagi jadval ko’rinishida bo’ladi: birinchi qator birinchi pozitsiyalarda ikkita birdan tashkil topadi, har bir navbatdagisi esa birinchi pozitsiyada bir, boshqalarida esa oldingi qatordagi mazkur va oldingi pozitsiyalardagi elementlar yig’indisi yordamida hisoblanadi. Oxirgi elementi ham bir ga teng. Shunday qilib quyidagi uchburchak hosil qilinadi
     <table>
         <tbody>
             <tr>

@@ -6,7 +6,7 @@
 </p>
 <h2>Kiruvchi ma'lumotlar:</h2>
 <p>
-	Kirish oqimida ikkita butun son kiritiladi, sonlar <code>10^9</code> dan kam
+	Kirish oqimida ikkita butun son kiritiladi, sonlar <code>10<sup>9</sup></code> dan kam
 </p>
 <h2>Chiquvchi ma'lumotlar:</h2>
 <p>
@@ -17,16 +17,16 @@
   <thead>
   	<tr>
 		<th>#</th>
-	    <th>input.txt</th>
-	    <th>output.txt</th>
+		<th>input.txt</th>
+		<th>output.txt</th>
   	</tr>
   </thead>
   <tbody>
   	<tr>
 		  <td>1</td>
-	    <td>2 3</td>
-	    <td>5</td>
-	  </tr>
+		<td>2 3</td>
+		<td>5</td>
+	</tr>
   </tbody>
 </table>
 <h2>Javob:</h2

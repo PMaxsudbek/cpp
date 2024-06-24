@@ -10,7 +10,7 @@ shartlarini qanoatlantiruvchi
 </p>
 <h2>Kiruvchi ma'lumotlar:</h2>
 <p>
-	<code>INPUT.TXT</code> kirish faylida yagona butun son, <code>Z(−10^9 ≤ Z ≤ 10^9)</code> soni kiritiladi.
+	<code>INPUT.TXT</code> kirish faylida yagona butun son, <code>Z(−10<sup>9</sup> ≤ Z ≤ 10<sup>9</sup>)</code> soni kiritiladi.
 </p>
 <h2>Chiquvchi ma'lumotlar:</h2>
 <p>

@@ -7,7 +7,7 @@
 <h2>Kiruvchi ma'lumotlar:</h2>
 <p><code>INPUT.TXT</code> faylida uchta qatorda uchtadan <code>[1...9]</code> oralig'idagi butun sonlar kiritiladi</p>
 <h2>Chiquvchi ma'lumotlar:</h2>
-<p><code>OUTPUT.TXT</code> chiqish faylida kirish faylida berilgan matritsadan <code>3</code>-tartibli sehrli kvadrat hosil qilish uchun eng kamida qancha energiya sarflanishini chiqaring.</p>
+<p><code>OUTPUT.TXT</code> chiqish faylida kirish faylida berilgan matritsadan <code>3</code> - tartibli sehrli kvadrat hosil qilish uchun eng kamida qancha energiya sarflanishini chiqaring.</p>
 <h2>Misollar</h2>
 <table>
     <thead>

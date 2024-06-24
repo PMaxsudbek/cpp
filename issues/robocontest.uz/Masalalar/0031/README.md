@@ -1,12 +1,13 @@
-
 <h1>Masala #<a href="https://robocontest.uz/tasks/0031">0031</a> #<a href="https://robocontest.uz/tasks?category=1">Noma'lum</a></h1>
 <h2> Muallif: <a href="https://robocontest.uz/profile/sunnat">Sunatullo Hojiyev</a></h2>
 <h2>Ko'zalar</h2>
-<p>A va B litr o'lchamli ikkita ko'za va bitmas-tuganmas suv manbaidan foydalanib idishlardan birida C litr suvni hosil qilib bo'ladimi?</p>
+<p><code>A</code> va <code>B</code> litr o'lchamli ikkita ko'za va bitmas-tuganmas suv manbaidan foydalanib idishlardan birida <code>C</code> litr suvni hosil qilib bo'ladimi?</p>
 <h2>Kiruvchi ma'lumotlar:</h2>
-<p>INPUT.TXT kirish faylining birinchi satrida bitta butun son,\(T (1 ≤ T ≤ 100)\)testlar soni kiritiladi.Keyin har bir test uchun alohida qatorda uchtadan butun son,\(A, B, C (1 ≤ A, B, C ≤ 1000)\)kiritiladi.</p>
+<p>
+    INPUT.TXT kirish faylining birinchi satrida bitta butun son, <code>T (1 ≤ T ≤ 100)</code> testlar soni kiritiladi.<br>
+    Keyin har bir test uchun alohida qatorda uchtadan butun son, <code>A, B, C (1 ≤ A, B, C ≤ 1000)</code> kiritiladi.</p>
 <h2>Chiquvchi ma'lumotlar:</h2>
-<p>OUTPUT.TXT chiqish faylida har bir test uchun alohida qatorda idishlardan birida C litr suv hosil qilishning imkoni bo'lsa "YES" aks holda "NO" so'zini chiqaring.</p>
+<p><code>OUTPUT.TXT</code> chiqish faylida har bir test uchun alohida qatorda idishlardan birida <code>C</code> litr suv hosil qilishning imkoni bo'lsa <code>"YES"</code> aks holda <code>"NO"</code> so'zini chiqaring.</p>
 <h2>Misollar</h2>
 <table>
     <thead>
@@ -17,17 +18,13 @@
         </tr>
     </thead>
     <tbody>
-            <tr>
-                <td>1</td>
-                <td>2
-7 5 6
-6 12 8</td>
-                <td>YES
-NO</td>
-            </tr>
+        <tr>
+            <td>1</td>
+            <td>2<br>7 5 6<br>6 12 8</td>
+            <td>YES<br>NO</td>
+        </tr>
     </tbody>
-    </table>
-    
+</table>    
 <h2>Javob:</h2>
 
 ######

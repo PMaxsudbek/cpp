@@ -8,14 +8,15 @@
         <code>A<sub>0<sub>,<sub>0</sub> = 0</code>
     </li>
     <li>
-        <code>A<sub>i,j</sub> = min{k ∈ Z<sub>+</sub>∣(∀i<sub>0</sub> ∈ Z<sub>+</sub>, i<sub>0</sub> &gt; i → A<sub>i<sub>0</sub>,j,</sub> &ne; k) ∧ (∀<sub>j<sub>0</sub></sub> ∈ Z<sub>+</sub>, j<sub>0</sub> &gt; j → A<sub>i</sub>​, j<sub>0</sub> &ne; k)}</code>
+        <code>A<sub>i,j</sub> = min{k ∈ Z<sub>+</sub>∣(∀i<sub>0</sub> ∈ Z<sub>+</sub>, i<sub>0</sub> &gt; i → A<sub>i<sub>0</sub>,j</sub> &ne; k) ∧ (∀<sub>j<sub>0</sub></sub> ∈ Z<sub>+</sub>, j<sub>0</sub> &gt; j → A<sub>i,j<sub>0</sub></sub> &ne; k)}</code>
     </li>
 </ul>
+    Boshqacha qilib aytganda <code>A<sub>i,j</sub></code>  - jadvalda o'z o'rnidan chapda ham, yuqorida ham uchramaydigan eng kichik nomanfiy sondir.
 </p>
 <h2>Kiruvchi ma'lumotlar:</h2>
-<p>INPUT.TXT kirish faylining yagona satrida ikkita natural son,\(N\)va\(M(1 ≤ N, M ≤ 10^9)\)</p>
+<p><code>INPUT.TXT</code> kirish faylining yagona satrida ikkita natural son, <code>N</code> va <code>M(1 ≤ N, M ≤ 10<sup>9</sup>)</code></p>
 <h2>Chiquvchi ma'lumotlar:</h2>
-<p>OUTPUT.TXT chiqish faylida yagona son,\(∑_{i=0}N\)\(∑_{j=0}M\)yig'indining qiymatini chop eting.</p>
+<p><code>OUTPUT.TXT</code> chiqish faylida yagona son, <code>&sum;<sub>i=0</sub>N</code> <code>&sum;<sub>j=0</sub>M</code> yig'indining qiymatini chop eting.</p>
 <h2>Misollar</h2>
 <table>
     <thead>
@@ -26,19 +27,18 @@
         </tr>
     </thead>
     <tbody>
-            <tr>
-                <td>1</td>
-                <td>1 1</td>
-                <td>2</td>
-            </tr>
-            <tr>
-                <td>2</td>
-                <td>4 2</td>
-                <td>33</td>
-            </tr>
+        <tr>
+            <td>1</td>
+            <td>1 1</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>4 2</td>
+            <td>33</td>
+        </tr>
     </tbody>
-    </table>
-    
+</table>    
 <h2>Javob:</h2>
 
 ######

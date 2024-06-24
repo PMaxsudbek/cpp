@@ -4,9 +4,9 @@
 <h2>O'rin almashtirish</h2>
 <p>Ikkita butun son berilgan, ularni o'rnini almashtiruvchi dastur tuzing</p>
 <h2>Kiruvchi ma'lumotlar:</h2>
-<p>INPUT.TXT kirish faylining yagona satrida qiymati [-109… 109] oralig'ida bo'lgan ikkita butun son bo'sh joy bilan ajratilgan holda kiritiladi.</p>
+<p><code>INPUT.TXT</code> kirish faylining yagona satrida qiymati <code>[-10<sup>9</sup> … 10<sup>9</sup>]</code> oralig'ida bo'lgan ikkita butun son bo'sh joy bilan ajratilgan holda kiritiladi.</p>
 <h2>Chiquvchi ma'lumotlar:</h2>
-<p>OUTPUT.TXT chiqish faylining yagona satrida bo'sh joy bilan ajratilgan holda kirish faylida berilgan sonlarning o'rnini almashtirib chiqaring!</p>
+<p><code>OUTPUT.TXT</code> chiqish faylining yagona satrida bo'sh joy bilan ajratilgan holda kirish faylida berilgan sonlarning o'rnini almashtirib chiqaring!</p>
 <h2>Misollar</h2>
 <table>
     <thead>
@@ -17,19 +17,18 @@
         </tr>
     </thead>
     <tbody>
-            <tr>
-                <td>1</td>
-                <td>10 20</td>
-                <td>20 10</td>
-            </tr>
-            <tr>
-                <td>2</td>
-                <td>5 50</td>
-                <td>50 5</td>
-            </tr>
+        <tr>
+            <td>1</td>
+            <td>10 20</td>
+            <td>20 10</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>5 50</td>
+            <td>50 5</td>
+        </tr>
     </tbody>
-    </table>
-    
+</table>    
 <h2>Javob:</h2>
 
 ######

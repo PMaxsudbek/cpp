@@ -3,7 +3,7 @@
 <h2> Muallif: <a href="https://robocontest.uz/profile/sunnat">Sunatullo Hojiyev</a></h2>
 <h2>G'aroyib son</h2>
 <p>O’z raqamlar yig’indisining kvadratiga bo’linadigan sonlar g’aroyib son deb ataladi!<br>
-Masalan: <code>162</code> soni <code>(1+6+2)^2</code> ga qoldiqsiz bo’linadi.</p>
+Masalan: <code>162</code> soni <code>(1+6+2)<sup>2</sup></code> ga qoldiqsiz bo’linadi.</p>
 <h2>Kiruvchi ma'lumotlar:</h2>
 <p><code>INPUT.TXT</code> kirish faylining yagona satrida bitta natural son, <code>N (1 ≤ N ≤ 30000)</code> soni kiritiladi.</p>
 <h2>Chiquvchi ma'lumotlar:</h2>

@@ -2,7 +2,7 @@
 <h2> Muallif: <a href="https://robocontest.uz/profile/sunnat">Sunatullo Hojiyev</a></h2>
 <h2>Dizayner Natasha</h2>
 <p>Natasha dizaynerlik sohasi bo’yicha universitetni tamomlab sohasi bo’yicha ishga joylashdi. Ishxonada yangi bo’lganligi uchun unga birinchi ishi uchun sodda ishni topshirishdi. Unga topshirilgan ish bo’yicha u <code>W x H</code> o’lchamdagi devorni, oddiy geometrik shakllar yordamida bezashi talab qilinar edi. U devorni diametri d bo’lgan romb shakllari bilan quyidagicha bezab chiqdi.
-<img scr="https://robocontest.uz/storage/images/dizayner_natawa.jpg">
+<img src="https://robocontest.uz/storage/images/dizayner_natawa.jpg">
 Natasha tayyorlagan dizaynini ko’rdi va u devorning rombdan iborat qismining yuzasi qancha bo’lishi haqida o’ylab qoldi.</p>
 <h2>Kiruvchi ma'lumotlar:</h2>
 <p><code>INPUT.TXT</code> chiqish faylida birinchi qatorda uchta natural <code>W</code>, <code>H</code>, <code>d</code>, mos ravishda devorning eni, bo'yi hamda rombning diagonali <code>(1 ≤ d ≤ W, H ≤ 10<sup>9</sup>)</code>.</p>

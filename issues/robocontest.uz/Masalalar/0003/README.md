@@ -6,7 +6,7 @@
 </p>
 <h2>Kiruvchi ma'lumotlar:</h2>
 <p>
-	<code>INPUT.TXT</code> kirish faylining alohida qatorlarida ikkita manfiy bo'lmagan butun sonlar berilgan, sonlar <code>10^100</code> dan oshmaydi.
+	<code>INPUT.TXT</code> kirish faylining alohida qatorlarida ikkita manfiy bo'lmagan butun sonlar berilgan, sonlar <code>10<sup>100</sup></code> dan oshmaydi.
 </p>
 <h2>Chiquvchi ma'lumotlar:</h2>
 <p>
@@ -24,9 +24,9 @@
   <tbody>
   	<tr>
 		  <td>1</td>
-	    <td>3<br>4</td>
-	    <td>7</td>
-	  </tr>
+		<td>3<br>4</td>
+		<td>7</td>
+	</tr>
   </tbody>
 </table>
 <h2>Javob:</h2>

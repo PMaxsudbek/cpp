@@ -8,7 +8,7 @@
         <code>A<sub>0<sub>,<sub>0</sub> = 0</code>
     </li>
     <li>
-        <code>A<sub>i,j</sub> = min{k ∈ Z<sub>+</sub>∣(∀i<sub>0</sub> ∈ Z<sub>+</sub>, i<sub>0</sub> < i → A<sub>i<sub>0</sub></sub>,j=k)∧(∀j0∈Z+,j0<j→Ai​,j0 =k)}</code>
+        <code>A<sub>i,j</sub> = min{k ∈ Z<sub>+</sub>∣(∀i<sub>0</sub> ∈ Z<sub>+</sub>, i<sub>0</sub> &gt; i → A<sub>i<sub>0</sub></sub>, j &ne; k) ∧ (∀<sub>j<sub>0</sub></sub> ∈ Z<sub>+</sub>, j<sub>0</sub> &gt; j → A<sub>i</sub>​, j<sub>0</sub> &ne; k)}</code>
     </li>
 </ul>
 </p>

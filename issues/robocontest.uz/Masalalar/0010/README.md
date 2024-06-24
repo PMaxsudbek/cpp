@@ -2,7 +2,7 @@
 <h2> Muallif: <a href="https://robocontest.uz/profile/sunnat">Sunatullo Hojiyev</a></h2>
 <h2>Yangi yil sovg'asi</h2>
 <p>
-  Uchta opa-singil <code>TATU</code> da o‘qishadi. Ular yangi yilga viloyatga o‘z uylariga qaytishdan oldin onalari uchun sovg‘a olishmoqchi. Ular olmoqchi bo‘lgan sovg‘aning narxi 
+  Uchta opa - singil <code>TATU</code> da o‘qishadi. Ular yangi yilga viloyatga o‘z uylariga qaytishdan oldin onalari uchun sovg‘a olishmoqchi. Ular olmoqchi bo‘lgan sovg‘aning narxi 
 <code>N</code> so‘m. Yo‘l xarajatlaridan tashqari opa-singillarning to‘ng‘ichida 
 <code>A</code> so‘m, o‘rtanchasida 
 <code>B</code> so‘m va kichigida 
@@ -14,7 +14,7 @@
 <code>N</code> soni sovg‘aning narxi kiritiladi. Ikkinchi satrda esa 
 <code>3</code> ta butun son, 
 <code>A, B, C</code> sonlari, mos ravishda opa singillarning yo‘l haqidan tashqari ortiqcha pullari miqdori kiritiladi.
-<code>0 ≤ N, A, B, C ≤ 10^9</code>
+<code>0 ≤ N, A, B, C ≤ 10<sup>9</sup></code>
 </p>
 <h2>Chiquvchi ma'lumotlar:</h2>
 <p>

@@ -17,7 +17,7 @@
 Sizning vazifangiz <code>[L, R]</code> oralig'iga tegishli nechta qat'iyatli son borligini topishdan iborat.</p>
 <h2>Kiruvchi ma'lumotlar:</h2>
 <p>
-    <code>INPUT.TXT</code>code> kirish faylining dastlabki qatorida bitta butun son, <code>T (1 ≤ T ≤ 200)</code> testlar soni kiritiladi.<br>
+    <code>INPUT.TXT</code> kirish faylining dastlabki qatorida bitta butun son, <code>T (1 ≤ T ≤ 200)</code> testlar soni kiritiladi.<br>
     Keyin har bir test uchun alohida qatorda ikkitadan butun son, <code>L</code> va <code>R (0 ≤ L, R ≤ 10<sup>18</sup>)</code></p>
 <h2>Chiquvchi ma'lumotlar:</h2>
 <p>OUTPUT.TXT chiqish faylida har bir test uchun alohida qatorda masala javobini chiqaring.</p>

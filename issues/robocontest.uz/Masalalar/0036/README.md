@@ -1,10 +1,16 @@
-
 <h1>Masala #<a href="https://robocontest.uz/tasks/0036">0036</a> #<a href="https://robocontest.uz/tasks?category=1">Noma'lum</a></h1>
 <h2> Muallif: <a href="https://robocontest.uz/profile/sunnat">Sunatullo Hojiyev</a></h2>
 <h2>G'alati jadval</h2>
-<p>Mirzo Ulug'bek\(N+1\)ta qator va\(M + 1\)ta ustundan iborat jadval chizdi va uni quyidagi qonuniyat asosida nomanfiy sonlar bilan to'ldirib chiqdi:
-Boshqacha qilib aytganda\(A_{i,j}\)- jadvalda o'z o'rnidan chapda ham, yuqorida ham uchramaydigan eng kichik nomanfiy sondir.Masalan\(N = 1\)va\(M = 2\)bo'lganda quyidagicha jadval hosil bo'ladi:
-Endi unga\(∑_{i=0}N\)\(∑_{j=0}M\)yig'indining qiymatini hisoblashga qiziqib qoldi.Sizning vazifangiz ham u hisoblagan yig'indini hisoblashdan iborat.
+<p>
+    Mirzo Ulug'bek <code>N+1</code> ta qator va <code>M + 1</code> ta ustundan iborat jadval chizdi va uni quyidagi qonuniyat asosida nomanfiy sonlar bilan to'ldirib chiqdi:
+<ul>
+    <li>
+        <code>A<sub>0<sub>,<sub>0</sub> = 0</code>
+    </li>
+    <li>
+        <code>A<sub>i,j</sub> = min{k ∈ Z<sub>+</sub>∣(∀i<sub>0</sub> ∈ Z<sub>+</sub>, i<sub>0</sub> < i → A<sub>i<sub>0</sub></sub>,j=k)∧(∀j0∈Z+,j0<j→Ai​,j0 =k)}</code>
+    </li>
+</ul>
 </p>
 <h2>Kiruvchi ma'lumotlar:</h2>
 <p>INPUT.TXT kirish faylining yagona satrida ikkita natural son,\(N\)va\(M(1 ≤ N, M ≤ 10^9)\)</p>

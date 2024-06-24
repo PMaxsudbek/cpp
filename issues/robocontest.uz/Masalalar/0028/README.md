@@ -2,11 +2,11 @@
 <h1>Masala #<a href="https://robocontest.uz/tasks/0028">0028</a> #<a href="https://robocontest.uz/tasks?category=1">Oson</a></h1>
 <h2> Muallif: <a href="https://robocontest.uz/profile/sunnat">Sunatullo Hojiyev</a></h2>
 <h2>Nuqta</h2>
-<p>Dekard koordinatalar sistemasidagi\(A(A_x, A_y)\)va\(B(B_x, B_y)\)nuqtalarning koordinatalari berilgan.Shu nuqtalardan hosil bo'lgan kesmaning A nuqtasini B nuqta atrofida soat strelkasi bo'ylab 180oburgandan keyingi A nuqtaning koordinatalarini aniqlang.</p>
+<p>Dekard koordinatalar sistemasidagi <code>A(A<sub>x</sub>, A<sub>y</sub>)</code> va <code>B(B<sub>x</sub>, B<sub>y</sub>)</code> nuqtalarning koordinatalari berilgan.Shu nuqtalardan hosil bo'lgan kesmaning <code>A</code> nuqtasini <code>B</code> nuqta atrofida soat strelkasi bo'ylab <code>180<sup>o</sup></code> burgandan keyingi A nuqtaning koordinatalarini aniqlang.</p>
 <h2>Kiruvchi ma'lumotlar:</h2>
-<p>INPUT.TXT kirish faylining dastlabki qatorida bitta butun son,\(N (1 ≤ N ≤ 15)\)testlar soni kiritiladi.Keyingi\(N\)ta qatorning har birida to'rttadan butun son, har bir test uchun\(A_x, A_y, B_x, B_y (-100 ≤ A_x, A_y, B_x, B_y ≤ 100)\)kiritiladi.</p>
+<p><code>INPUT.TXT</code> kirish faylining dastlabki qatorida bitta butun son, <code>N (1 ≤ N ≤ 15)</code> testlar soni kiritiladi.Keyingi <code>N</code> ta qatorning har birida to'rttadan butun son, har bir test uchun <code>A<sub>x</sub>, A<sub>y</sub>, B<sub>x</sub>, B<sub>y</sub> (-100 ≤ A<sub>x</sub>, A<sub>y</sub>, B<sub>x</sub>, B<sub>y</sub> ≤ 100)</code> kiritiladi.</p>
 <h2>Chiquvchi ma'lumotlar:</h2>
-<p>OUTPUT.TXT chiqish faylida har bir test uchun alohida qatorda ikkitadan butun son, A nuqtani B nuqta atrofida soat strelkasi bo'ylab 180oburgandan keyingi A nuqtaning koordinatalarini chiqaring.</p>
+<p><code>OUTPUT.TXT</code> chiqish faylida har bir test uchun alohida qatorda ikkitadan butun son, <code>A</code> nuqtani <code>B</code> nuqta atrofida soat strelkasi bo'ylab <code>180<sup>o</sup></code> burgandan keyingi <code>A</code> nuqtaning koordinatalarini chiqaring.</p>
 <h2>Misollar</h2>
 <table>
     <thead>

@@ -1,4 +1,3 @@
-
 <h1>Masala #<a href="https://robocontest.uz/tasks/0028">0028</a> #<a href="https://robocontest.uz/tasks?category=1">Oson</a></h1>
 <h2> Muallif: <a href="https://robocontest.uz/profile/sunnat">Sunatullo Hojiyev</a></h2>
 <h2>Nuqta</h2>
@@ -19,15 +18,11 @@
     <tbody>
             <tr>
                 <td>1</td>
-                <td>2
-0 0 2 2
-1 1 2 2</td>
-                <td>4 4
-3 3</td>
+                <td>2<br>0 0 2 2<br>1 1 2 2</td>
+                <td>4 4<br>3 3</td>
             </tr>
     </tbody>
-    </table>
-    
+</table>    
 <h2>Javob:</h2>
 
 ######

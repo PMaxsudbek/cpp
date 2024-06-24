@@ -1,10 +1,10 @@
 <h1>Masala #<a href="https://robocontest.uz/tasks/0031">0031</a> #<a href="https://robocontest.uz/tasks?category=1">Noma'lum</a></h1>
 <h2> Muallif: <a href="https://robocontest.uz/profile/sunnat">Sunatullo Hojiyev</a></h2>
 <h2>Ko'zalar</h2>
-<p><code>A</code> va <code>B</code> litr o'lchamli ikkita ko'za va bitmas-tuganmas suv manbaidan foydalanib idishlardan birida <code>C</code> litr suvni hosil qilib bo'ladimi?</p>
+<p><code>A</code> va <code>B</code> litr o'lchamli ikkita ko'za va bitmas - tuganmas suv manbaidan foydalanib idishlardan birida <code>C</code> litr suvni hosil qilib bo'ladimi?</p>
 <h2>Kiruvchi ma'lumotlar:</h2>
 <p>
-    INPUT.TXT kirish faylining birinchi satrida bitta butun son, <code>T (1 ≤ T ≤ 100)</code> testlar soni kiritiladi.<br>
+    <code>INPUT.TXT</code> kirish faylining birinchi satrida bitta butun son, <code>T (1 ≤ T ≤ 100)</code> testlar soni kiritiladi.<br>
     Keyin har bir test uchun alohida qatorda uchtadan butun son, <code>A, B, C (1 ≤ A, B, C ≤ 1000)</code> kiritiladi.</p>
 <h2>Chiquvchi ma'lumotlar:</h2>
 <p><code>OUTPUT.TXT</code> chiqish faylida har bir test uchun alohida qatorda idishlardan birida <code>C</code> litr suv hosil qilishning imkoni bo'lsa <code>"YES"</code> aks holda <code>"NO"</code> so'zini chiqaring.</p>

@@ -1,15 +1,14 @@
-
 <h1>Masala #<a href="https://robocontest.uz/tasks/0045">0045</a> #<a href="https://robocontest.uz/tasks?category=1">Oson</a></h1>
 <h2> Muallif: <a href="https://robocontest.uz/profile/sunnat">Sunatullo Hojiyev</a></h2>
 <h2>Uchburchakli sonlar</h2>
-<p>Uchburchakli sonlar teng tomonli uchburchakda joylashtirilgan jismlar sonidir (shu tariqa uchburchakli sonlar figurali sonlar turiga kiradi). N-chi uchburchakli son - bu yon tomonda n ta nuqta bo'lgan uchburchak tartibidagi nuqtalar soni va 1 dan n gacha bo'lgan n ta natural sonning yig'indisiga teng miqdorda nuqtadan iboratdir. Uchburchakli sonlar 0-tartibdan boshlanadi va dastlabki elementlari quyidagilardir:
-0, 1, 3, 6, 10, 15, 21, 28, 36, 45, 55, 66, 78, 91, 105, 120, 136, 153, 171, 190, 210, 231, 253, 276, 300, 325, 351, 378, 406, 435, 465, 496, 528, 561, 595, 630, 666...
-Quyida 1 dan 6 gacha tartibdagi uchburchakli sonlar ifodalangan:
+<p>Uchburchakli sonlar teng tomonli uchburchakda joylashtirilgan jismlar sonidir (shu tariqa uchburchakli sonlar figurali sonlar turiga kiradi). <code>N</code> - chi uchburchakli son - bu yon tomonda <code>n</code> ta nuqta bo'lgan uchburchak tartibidagi nuqtalar soni va <code>1</code> dan <code>n</code> gacha bo'lgan <code>n</code> ta natural sonning yig'indisiga teng miqdorda nuqtadan iboratdir. Uchburchakli sonlar <code>0</code> - tartibdan boshlanadi va dastlabki elementlari quyidagilardir:
+<code>0</code>, <code>1</code>, <code>3</code>, <code>6</code>, <code>10</code>, <code>15</code>, <code>21</code>, <code>28</code>, <code>36</code>, <code>45</code>, <code>55</code>, <code>66</code>, <code>78</code>, <code>91</code>, <code>105</code>, <code>120</code>, <code>136</code>, <code>153</code>, <code>171</code>, <code>190</code>, <code>210</code>, <code>231</code>, <code>253</code>, <code>276</code>, <code>300</code>, <code>325</code>, <code>351</code>, <code>378</code>, <code>406</code>, <code>435</code>, <code>465</code>, <code>496</code>, <code>528</code>, <code>561</code>, <code>595</code>, <code>630</code>, <code>666</code> <code>...</code>
+Quyida <code>1</code> dan <code>6</code> gacha tartibdagi uchburchakli sonlar ifodalangan:
 </p>
 <h2>Kiruvchi ma'lumotlar:</h2>
-<p>INPUT.TXT kirish faylining yagona satrida bitta butun son, N(0 ≤ N ≤ 109) soni kiritiladi</p>
+<p><code>INPUT.TXT</code> kirish faylining yagona satrida bitta butun son, <code>N(0 ≤ N ≤ 10<sup>9</sup>)</code> soni kiritiladi</p>
 <h2>Chiquvchi ma'lumotlar:</h2>
-<p>OUTPUT.TXT chiqish faylida N-tartibli uchburchakli sonning qiymatini chiqaring.</p>
+<p><code>OUTPUT.TXT</code> chiqish faylida <code>N</code> - tartibli uchburchakli sonning qiymatini chiqaring.</p>
 <h2>Misollar</h2>
 <table>
     <thead>
@@ -20,19 +19,18 @@ Quyida 1 dan 6 gacha tartibdagi uchburchakli sonlar ifodalangan:
         </tr>
     </thead>
     <tbody>
-            <tr>
-                <td>1</td>
-                <td>3</td>
-                <td>6</td>
-            </tr>
-            <tr>
-                <td>2</td>
-                <td>5</td>
-                <td>15</td>
-            </tr>
+        <tr>
+            <td>1</td>
+            <td>3</td>
+            <td>6</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>5</td>
+            <td>15</td>
+        </tr>
     </tbody>
-    </table>
-    
+</table>    
 <h2>Javob:</h2>
 
 ######

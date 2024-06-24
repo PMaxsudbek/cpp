@@ -6,7 +6,7 @@
 </p>
 <h2>Kiruvchi ma'lumotlar:</h2>
 <p>
-	<code>INPUT.TXT</code> kirish faylining yagona satrida ikkita natural son, <code>N</code> va <code>P</code> sonlari kiritiladi. <code>(1 ≤ N, P ≤ 10^9)</code>
+	<code>INPUT.TXT</code> kirish faylining yagona satrida ikkita natural son, <code>N</code> va <code>P</code> sonlari kiritiladi. <code>(1 ≤ N, P ≤ 10<sup>9</sup>)</code>
 </p>
 <h2>Chiquvchi ma'lumotlar:</h2>
 <p>

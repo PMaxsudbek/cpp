@@ -4,7 +4,7 @@
 <p>Elektron soat <code>h:mm:ss</code> (<code>0:00:00</code> dan <code>23:59:59</code> gacha) formatida ishlaydi, oldin soat, keyin ikki katakda minut, va keyin ikki katakda sekund. Minutlar va sekundlar soni kerak paytlarda <code>0</code> lar bilan to`ldirilishi mumkin.
 Sana boshidan <code>N</code> sekund vaqt o`tdi. Soat qaysi vaqtni ko`rsatishini aniqlang.</p>
 <h2>Kiruvchi ma'lumotlar:</h2>
-<p>Bitta natural <code>N(1 ≤ N ≤ 10^700)</code> soni kiritiladi.</p>
+<p>Bitta natural <code>N(1 ≤ N ≤ 10<sup>700</sup>)</code> soni kiritiladi.</p>
 <h2>Chiquvchi ma'lumotlar:</h2>
 <p>Masala javobini chiqaring.</p>
 <h2>Misollar</h2>

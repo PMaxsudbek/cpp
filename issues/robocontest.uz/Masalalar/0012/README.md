@@ -9,7 +9,7 @@
 <h2>Kiruvchi ma'lumotlar:</h2>
 <p>Bitta butun son, <code>n</code> soni kiritiladi. <code>(1 ≤ n ≤ 10<sup>5</sup>)</code></p>
 <h2>Chiquvchi ma'lumotlar:</h2>
-<p>O'yinda Ali g'olib bo'lsa "Ali", Bobur g'olib bo'lsa "Bobur" degan yozuv chiqaring.</p>
+<p>O'yinda Ali g'olib bo'lsa <code>"Ali"</code>, Bobur g'olib bo'lsa <code>"Bobur"</code> degan yozuv chiqaring.</p>
 <h2>Misollar</h2>
 <table>
     <thead>

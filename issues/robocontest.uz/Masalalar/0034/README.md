@@ -6,7 +6,7 @@
 </p>
 <h2>Kiruvchi ma'lumotlar:</h2>
 <p>
-    <code>INPUT.TXT</code> kirish faylining yagona satrida ikkita butun son, <code>a</code> va <code>b (1 ≤ a, b ≤ 10<sup>6</sup>)</code> berilgan.
+    <code>INPUT.TXT</code> kirish faylining yagona satrida ikkita butun son, <code>a</code> va <code>b</code> <code>(1 ≤ a, b ≤ 10<sup>6</sup>)</code> berilgan.
 </p>
 <h2>Chiquvchi ma'lumotlar:</h2>
 <p><code>OUTPUT.TXT</code> chiqish faylida masala javobini chiqaring.</p>

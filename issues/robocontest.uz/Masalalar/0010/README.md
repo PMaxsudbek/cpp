@@ -41,7 +41,7 @@
 
 ######
 
-<code accesskey="cpp">
+<code translate="cpp">
 #include <iostream>
 using namespace std;
 int main()

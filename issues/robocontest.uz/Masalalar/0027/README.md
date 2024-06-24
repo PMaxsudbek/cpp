@@ -20,15 +20,11 @@
     <tbody>
             <tr>
                 <td>1</td>
-                <td>2
-3 1
-5 2</td>
-                <td>2
-4</td>
+                <td>2<br>3 1<br>5 2</td>
+                <td>2<br>4</td>
             </tr>
     </tbody>
-    </table>
-    
+</table>
 <h2>Javob:</h2>
 
 ######

@@ -8,9 +8,9 @@ Bu virus faqatgina virus bilan kasallangan inson boshqa bir sog'lom inson bilan 
 Uxonoid sayyorasida yashovchi insonlarning har biri bir kun mobaynida aynan <code>K</code> ta inson bilan ko'rishadi.<br>
 Shu sayyorada bir inson jonivordan virus yuqtirib olganidan <code>N</code> kundan keyin sayyorada virus bilan kasallanganlar soni ko'pi bilan nechta bo'lishini aniqlang.</p>
 <h2>Kiruvchi ma'lumotlar:</h2>
-<p><code>INPUT.TXT</code> kirish faylining yagona satrida ikkita butun son, <code>N</code> va <code>K</code> <code>(0 ≤ N, K ≤ 10^9)</code> sonlari kiritiladi.</p>
+<p><code>INPUT.TXT</code> kirish faylining yagona satrida ikkita butun son, <code>N</code> va <code>K</code> <code>(0 ≤ N, K ≤ 10<sup>9</sup>)</code> sonlari kiritiladi.</p>
 <h2>Chiquvchi ma'lumotlar:</h2>
-<p><code>OUTPUT.TXT</code> chiqish faylida yagona son, masala yechimning <code>1000000007(10^9+7)</code> ga bo'lgandagi qoldig'ini chiqaring.</p>
+<p><code>OUTPUT.TXT</code> chiqish faylida yagona son, masala yechimning <code>1000000007(10<sup>9</sup>+7)</code> ga bo'lgandagi qoldig'ini chiqaring.</p>
 <h2>Misollar</h2>
 <table>
     <thead>
@@ -32,8 +32,7 @@ Shu sayyorada bir inson jonivordan virus yuqtirib olganidan <code>N</code> kunda
                 <td>64</td>
             </tr>
     </tbody>
-    </table>
-    
+</table>    
 <h2>Javob:</h2>
 
 ######

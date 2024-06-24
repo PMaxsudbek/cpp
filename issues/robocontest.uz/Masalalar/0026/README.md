@@ -21,11 +21,8 @@
     <tbody>
             <tr>
                 <td>1</td>
-                <td>2
-2
-1</td>
-                <td>4
-1</td>
+                <td>2<br>2<br>1</td>
+                <td>4<br>1</td>
             </tr>
     </tbody>
     </table>

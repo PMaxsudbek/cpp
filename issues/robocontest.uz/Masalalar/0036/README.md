@@ -8,7 +8,7 @@
         <code>A<sub>0,0</sub> = 0</code>
     </li>
     <li>
-        <code>A<sub>i,j</sub> = min{k ∈ Z<sub>+</sub>∣(∀i<sub>0</sub> ∈ Z<sub>+</sub>, i<sub>0</sub> &gt; i → A<sub>i<sub>0</sub>,j</sub> &ne; k) ∧ (∀<sub>j<sub>0</sub></sub> ∈ Z<sub>+</sub>, j<sub>0</sub> &gt; j → A<sub>i,j<sub>0</sub></sub> &ne; k)}</code>
+        <code>A<sub>i,j</sub> = min{k ∈ Z<sub>+</sub>∣(∀i<sub>0</sub> ∈ Z<sub>+</sub>, i<sub>0</sub> &lt; i → A<sub>i<sub>0</sub>,j</sub> &ne; k) ∧ (∀<sub>j<sub>0</sub></sub> ∈ Z<sub>+</sub>, j<sub>0</sub> &lt; j → A<sub>i,j<sub>0</sub></sub> &ne; k)}</code>
     </li>
 </ul>
     Boshqacha qilib aytganda <code>A<sub>i,j</sub></code>  - jadvalda o'z o'rnidan chapda ham, yuqorida ham uchramaydigan eng kichik nomanfiy sondir.

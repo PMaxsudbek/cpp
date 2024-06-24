@@ -5,7 +5,7 @@
     Mirzo Ulug'bek <code>N+1</code> ta qator va <code>M + 1</code> ta ustundan iborat jadval chizdi va uni quyidagi qonuniyat asosida nomanfiy sonlar bilan to'ldirib chiqdi:
 <ul>
     <li>
-        <code>A<sub>0<sub>,<sub>0</sub> = 0</code>
+        <code>A<sub>0,0</sub> = 0</code>
     </li>
     <li>
         <code>A<sub>i,j</sub> = min{k ∈ Z<sub>+</sub>∣(∀i<sub>0</sub> ∈ Z<sub>+</sub>, i<sub>0</sub> &gt; i → A<sub>i<sub>0</sub>,j</sub> &ne; k) ∧ (∀<sub>j<sub>0</sub></sub> ∈ Z<sub>+</sub>, j<sub>0</sub> &gt; j → A<sub>i,j<sub>0</sub></sub> &ne; k)}</code>

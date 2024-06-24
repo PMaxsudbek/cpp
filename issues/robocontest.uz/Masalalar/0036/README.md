@@ -12,7 +12,7 @@
     </li>
 </ul>
     Boshqacha qilib aytganda <code>A<sub>i,j</sub></code>  - jadvalda o'z o'rnidan chapda ham, yuqorida ham uchramaydigan eng kichik nomanfiy sondir.
-    Masalan <code>N = 1</code> va <code>M = 2</code> bo'lganda quyidagicha jadval hosil bo'ladi:
+    Masalan <code>N = 1</code> va <code>M = 2</code> bo'lganda quyidagicha jadval hosil bo'ladi:<br>
     <table>
         <tr>
             <td>0</td>

@@ -26,7 +26,7 @@
 <code>1000000</code> – bir million<br>
 <code>1000000000</code> – bir milliard</p>
 <h2>Kiruvchi ma'lumotlar:</h2>
-<p><code>INPUT.TXT</code> kirish faylida yagona natural son, <code>N(1 ≤ N < 10^12)</code> soni kiritiladi.</p>
+<p><code>INPUT.TXT</code> kirish faylida yagona natural son, <code>N(1 ≤ N < 10<sup>12</sup>)</code> soni kiritiladi.</p>
 <h2>Chiquvchi ma'lumotlar:</h2>
 <p><code>OUTPUT.TXT</code> chiqish faylida <code>N</code>sonining o’zbek lotin yozuvida yozilishini chop eting!</p>
 <h2>Misollar</h2>

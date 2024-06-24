@@ -7,7 +7,7 @@
 <h2>Kiruvchi ma'lumotlar:</h2>
 <p>
 	<code>INPUT.TXT</code> kirish faylining yagona satrida bo'sh joy bilan ajratilgan holda beshta butun son berilgan, sonlar 
-<code>[1, 10^9]</code> oralig'iga tegishli.
+<code>[1, 10<sup>9</sup>]</code> oralig'iga tegishli.
 </p>
 <h2>Chiquvchi ma'lumotlar:</h2>
 <p>
@@ -18,16 +18,16 @@
   <thead>
   	<tr>
 		<th>#</th>
-	    <th>input.txt</th>
-	    <th>output.txt</th>
+		<th>input.txt</th>
+		<th>output.txt</th>
   	</tr>
   </thead>
   <tbody>
   	<tr>
 		  <td>1</td>
-	    <td>1 2 3 4 5</td>
-	    <td>10 14</td>
-	  </tr>
+		<td>1 2 3 4 5</td>
+		<td>10 14</td>
+	</tr>
   </tbody>
 </table>
 <h2>Javob:</h2>

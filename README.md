@@ -3,3 +3,4 @@ Bu repozitoriyada C++ dasturlash tiliga bag'ishlangan mavzular va misollar joyla
 ## Mavzular
 Mavzular rejasi yuqorida :)
 ## Qo'shimcha ma'lumot uchun murojat:
++998904570708

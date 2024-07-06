@@ -3,5 +3,5 @@ Bu repozitoriyada C++ dasturlash tiliga bag'ishlangan mavzular va misollar joyla
 ## Mavzular
 Mavzular rejasi yuqorida :)
 <summary>
-  <Reja:/>
+  Reja:
 </summary>

@@ -5,3 +5,9 @@ Mavzular rejasi yuqorida
 <summary>
   Reja:
 </summary>
+Advanced
+Algorithms
+Basics
+DataStructures
+OOP
+issues
